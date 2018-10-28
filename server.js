@@ -135,7 +135,10 @@ ${ db.tables.map(renderTOCTable).join('\n') }
 `
 
 const renderTOCTable = (t) =>
-  `- [${ t.name }](#${ t.name }) (${ renderCount(t.count) })`
+  `- [${ t.name }](#${ renderTableLink(t) }) (${ renderCount(t.count) })`
+
+const renderTableLink = (t) =>
+  `${ t.name }-${ renderCount(t.count).replace(/,/g, '').replace(/ /g, '-') }`
 
 const renderDatabaseHeader = (name) => `
 # ${ name }
