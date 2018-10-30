@@ -1,110 +1,355 @@
 
 # Table of Contents
 
-**List of tables with at least 100 rows:**
+**List of tables with at least 0 rows:**
 
 
 [AR0000DATA](#AR0000DATA)
+- [ARCard](#ARCard-0-rows) (0 rows)
+- [ARCompany](#ARCompany-1-row) (1 row)
+- [ARCurrency](#ARCurrency-0-rows) (0 rows)
 - [ARCustomer](#ARCustomer-7926-rows) (7,926 rows)
+- [ARCustomerType](#ARCustomerType-0-rows) (0 rows)
+- [ARDeletedInvoice](#ARDeletedInvoice-0-rows) (0 rows)
+- [ARDeletedPayment](#ARDeletedPayment-0-rows) (0 rows)
+- [ARGLTxn](#ARGLTxn-0-rows) (0 rows)
 - [ARInvoice](#ARInvoice-4101-rows) (4,101 rows)
 - [ARInvoiceDetail](#ARInvoiceDetail-4065-rows) (4,065 rows)
 - [ARLog](#ARLog-792-rows) (792 rows)
+- [ARNextID](#ARNextID-4-rows) (4 rows)
 - [ARPayment](#ARPayment-1744-rows) (1,744 rows)
 - [ARPaymentDetail](#ARPaymentDetail-3823-rows) (3,823 rows)
 - [ARPaymentDistribute](#ARPaymentDistribute-1682-rows) (1,682 rows)
+- [ARProfile](#ARProfile-50-rows) (50 rows)
+- [ARRecurringInvoice](#ARRecurringInvoice-0-rows) (0 rows)
+- [ARRecurringInvoiceDetail](#ARRecurringInvoiceDetail-0-rows) (0 rows)
+- [ARSalesRep](#ARSalesRep-0-rows) (0 rows)
+- [ARSecurity](#ARSecurity-0-rows) (0 rows)
+- [ARShipVia](#ARShipVia-0-rows) (0 rows)
+- [ARStore](#ARStore-0-rows) (0 rows)
+- [ARTemplate](#ARTemplate-0-rows) (0 rows)
+- [GLChartofAcct](#GLChartofAcct-0-rows) (0 rows)
+- [GLDept](#GLDept-0-rows) (0 rows)
 
 
 [FDDATA](#FDDATA)
+- [FDAwardType](#FDAwardType-0-rows) (0 rows)
+- [FDCompany](#FDCompany-1-row) (1 row)
+- [FDProfile](#FDProfile-14-rows) (14 rows)
+- [FDSecurity](#FDSecurity-33-rows) (33 rows)
+- [FDStore](#FDStore-1-row) (1 row)
 - [FDTxnPoint](#FDTxnPoint-1333696-rows) (1,333,696 rows)
 
 
 [PSCUSTOMER](#PSCUSTOMER)
 - [Customer](#Customer-76150-rows) (76,150 rows)
+- [CustomerDemographic](#CustomerDemographic-0-rows) (0 rows)
+- [CustomerSearchKey](#CustomerSearchKey-0-rows) (0 rows)
+- [CustomerType](#CustomerType-0-rows) (0 rows)
+- [DemographicChoice](#DemographicChoice-0-rows) (0 rows)
+- [DemographicDef](#DemographicDef-0-rows) (0 rows)
+- [DisallowedTender](#DisallowedTender-0-rows) (0 rows)
+- [FDCard](#FDCard-1-row) (1 row)
+- [PSNextID](#PSNextID-0-rows) (0 rows)
+- [SearchKeyDef](#SearchKeyDef-0-rows) (0 rows)
 
 
 [PSDATA](#PSDATA)
-
+- [PSAccessSystem](#PSAccessSystem-6-rows) (6 rows)
+- [PSBackupServer](#PSBackupServer-0-rows) (0 rows)
+- [PSFont](#PSFont-36-rows) (36 rows)
+- [PSMessage](#PSMessage-0-rows) (0 rows)
+- [PSUserSystem](#PSUserSystem-60-rows) (60 rows)
 
 
 [PSGIFTCARD](#PSGIFTCARD)
+- [GCCardType](#GCCardType-2-rows) (2 rows)
+- [GCCompany](#GCCompany-1-row) (1 row)
 - [GCGiftCard](#GCGiftCard-4199-rows) (4,199 rows)
+- [GCProfile](#GCProfile-5-rows) (5 rows)
+- [GCSecurity](#GCSecurity-24-rows) (24 rows)
+- [GCStore](#GCStore-0-rows) (0 rows)
 - [GCTxnDetail](#GCTxnDetail-29285-rows) (29,285 rows)
 
 
 [RS0000CUSTOMER](#RS0000CUSTOMER)
+- [ProfitekSystem](#ProfitekSystem-1-row) (1 row)
 - [RSCustomer](#RSCustomer-78601-rows) (78,601 rows)
+- [RSCustomerCity](#RSCustomerCity-0-rows) (0 rows)
+- [RSCustomerContact](#RSCustomerContact-22-rows) (22 rows)
 - [RSCustomerDel](#RSCustomerDel-526-rows) (526 rows)
+- [RSCustomerPrefer](#RSCustomerPrefer-0-rows) (0 rows)
+- [RSCustomerProvince](#RSCustomerProvince-13-rows) (13 rows)
+- [RSCustomerSubcategory](#RSCustomerSubcategory-0-rows) (0 rows)
+- [RSCustomerType](#RSCustomerType-5-rows) (5 rows)
 
 
 [RS0000DATA](#RS0000DATA)
+- [ProfitekSystem](#ProfitekSystem-1-row) (1 row)
+- [RSAirMilesDetail](#RSAirMilesDetail-0-rows) (0 rows)
+- [RSAirMilesOffer](#RSAirMilesOffer-13-rows) (13 rows)
 - [RSAPVendor](#RSAPVendor-521-rows) (521 rows)
+- [RSAPVendorType](#RSAPVendorType-0-rows) (0 rows)
+- [RSARRequest](#RSARRequest-21-rows) (21 rows)
+- [RSAWItemBonusPoints](#RSAWItemBonusPoints-6-rows) (6 rows)
+- [RSAWItemPointsExempt](#RSAWItemPointsExempt-15-rows) (15 rows)
+- [RSAWItemRedemptionPoints](#RSAWItemRedemptionPoints-0-rows) (0 rows)
 - [RSBarcode](#RSBarcode-27911-rows) (27,911 rows)
+- [RSCashierClosing](#RSCashierClosing-0-rows) (0 rows)
+- [RSCashierClosingTender](#RSCashierClosingTender-0-rows) (0 rows)
+- [RSCashierClosingTenderDetail](#RSCashierClosingTenderDetail-0-rows) (0 rows)
+- [RSCashPickup](#RSCashPickup-0-rows) (0 rows)
+- [RSCashValue](#RSCashValue-11-rows) (11 rows)
+- [RSCategory](#RSCategory-16-rows) (16 rows)
+- [RSCCACreditRequest](#RSCCACreditRequest-0-rows) (0 rows)
+- [RSCCACreditRequestBak](#RSCCACreditRequestBak-0-rows) (0 rows)
+- [RSCCAEncryptFail](#RSCCAEncryptFail-0-rows) (0 rows)
+- [RSCCAProfile](#RSCCAProfile-16-rows) (16 rows)
+- [RSCCASummary](#RSCCASummary-0-rows) (0 rows)
+- [RSCCAWorkStation](#RSCCAWorkStation-7-rows) (7 rows)
+- [RSColor](#RSColor-1-row) (1 row)
+- [RSCommVol](#RSCommVol-0-rows) (0 rows)
+- [RSCompanyInfo](#RSCompanyInfo-1-row) (1 row)
+- [RSCPInvoice](#RSCPInvoice-0-rows) (0 rows)
+- [RSCPInvoiceDetail](#RSCPInvoiceDetail-0-rows) (0 rows)
+- [RSCPInvoiceTxnDetail](#RSCPInvoiceTxnDetail-0-rows) (0 rows)
+- [RSCPVendor](#RSCPVendor-0-rows) (0 rows)
+- [RSCUPBatchClose](#RSCUPBatchClose-0-rows) (0 rows)
+- [RSCUPRequest](#RSCUPRequest-0-rows) (0 rows)
+- [RSCurrency](#RSCurrency-2-rows) (2 rows)
+- [RSDailyClose](#RSDailyClose-0-rows) (0 rows)
 - [RSDeposit](#RSDeposit-211-rows) (211 rows)
+- [RSDiscountType](#RSDiscountType-15-rows) (15 rows)
+- [RSEmail](#RSEmail-0-rows) (0 rows)
+- [RSEspGCLog](#RSEspGCLog-0-rows) (0 rows)
+- [RSEvent](#RSEvent-62-rows) (62 rows)
 - [RSEventDays](#RSEventDays-397-rows) (397 rows)
+- [RSEventHoliday](#RSEventHoliday-0-rows) (0 rows)
+- [RSExpenseType](#RSExpenseType-15-rows) (15 rows)
+- [RSGLChartofAcct](#RSGLChartofAcct-0-rows) (0 rows)
+- [RSGLDept](#RSGLDept-1-row) (1 row)
+- [RSGLJournalDay](#RSGLJournalDay-0-rows) (0 rows)
+- [RSHCMessage](#RSHCMessage-0-rows) (0 rows)
+- [RSImExOrderDownloadLog](#RSImExOrderDownloadLog-0-rows) (0 rows)
+- [RSImExParameter](#RSImExParameter-75-rows) (75 rows)
+- [RSImExTask](#RSImExTask-0-rows) (0 rows)
 - [RSInvAdjustCostDetail](#RSInvAdjustCostDetail-7346-rows) (7,346 rows)
 - [RSInvAdjustCostHead](#RSInvAdjustCostHead-1293-rows) (1,293 rows)
 - [RSInvAdjustDetail](#RSInvAdjustDetail-34409-rows) (34,409 rows)
 - [RSInvAdjustHead](#RSInvAdjustHead-5483-rows) (5,483 rows)
 - [RSInventory](#RSInventory-12763-rows) (12,763 rows)
+- [RSInventoryCount](#RSInventoryCount-0-rows) (0 rows)
+- [RSInventoryHold](#RSInventoryHold-0-rows) (0 rows)
 - [RSInventoryTrack](#RSInventoryTrack-3568517-rows) (3,568,517 rows)
+- [RSInvModExpiryDateLotNumDetail](#RSInvModExpiryDateLotNumDetail-0-rows) (0 rows)
+- [RSInvModExpiryDateLotNumHead](#RSInvModExpiryDateLotNumHead-0-rows) (0 rows)
+- [RSInvModSerialStatusDetail](#RSInvModSerialStatusDetail-0-rows) (0 rows)
+- [RSInvModSerialStatusHead](#RSInvModSerialStatusHead-0-rows) (0 rows)
 - [RSInvPCCountDetail](#RSInvPCCountDetail-47837-rows) (47,837 rows)
+- [RSInvPCHead](#RSInvPCHead-37-rows) (37 rows)
 - [RSInvPCImageDetail](#RSInvPCImageDetail-87391-rows) (87,391 rows)
 - [RSInvRecDetail](#RSInvRecDetail-303383-rows) (303,383 rows)
 - [RSInvRecDetailMisc](#RSInvRecDetailMisc-43304-rows) (43,304 rows)
 - [RSInvRecHead](#RSInvRecHead-30872-rows) (30,872 rows)
+- [RSInvRecMoreDetail](#RSInvRecMoreDetail-0-rows) (0 rows)
+- [RSInvSptCmbDetail](#RSInvSptCmbDetail-0-rows) (0 rows)
+- [RSInvSptCmbHead](#RSInvSptCmbHead-0-rows) (0 rows)
 - [RSInvTxfDetail](#RSInvTxfDetail-1634-rows) (1,634 rows)
+- [RSInvTxfDetailMore](#RSInvTxfDetailMore-0-rows) (0 rows)
+- [RSInvTxfHead](#RSInvTxfHead-29-rows) (29 rows)
+- [RSInvTxfHeadMisc](#RSInvTxfHeadMisc-10-rows) (10 rows)
 - [RSInvTxfInventoryDetail](#RSInvTxfInventoryDetail-1397-rows) (1,397 rows)
 - [RSItem](#RSItem-21949-rows) (21,949 rows)
 - [RSItemCostChange](#RSItemCostChange-30768-rows) (30,768 rows)
 - [RSItemDel](#RSItemDel-22409-rows) (22,409 rows)
+- [RSItemFinishedProduct](#RSItemFinishedProduct-2-rows) (2 rows)
+- [RSItemListTypeChange](#RSItemListTypeChange-0-rows) (0 rows)
 - [RSItemMergeLog](#RSItemMergeLog-1748-rows) (1,748 rows)
 - [RSItemPicture](#RSItemPicture-5677-rows) (5,677 rows)
 - [RSItemPriceChange](#RSItemPriceChange-295842-rows) (295,842 rows)
+- [RSItemRegion](#RSItemRegion-0-rows) (0 rows)
 - [RSItemsAttrib](#RSItemsAttrib-241-rows) (241 rows)
+- [RSItemSizeColor](#RSItemSizeColor-0-rows) (0 rows)
+- [RSItemSizeColorPic](#RSItemSizeColorPic-0-rows) (0 rows)
+- [RSItemSizeWidth](#RSItemSizeWidth-0-rows) (0 rows)
+- [RSItemStatus](#RSItemStatus-3-rows) (3 rows)
 - [RSItemStockLevel](#RSItemStockLevel-21630-rows) (21,630 rows)
+- [RSItemsWebAttrib](#RSItemsWebAttrib-16-rows) (16 rows)
 - [RSItemsWebAttribDefValue](#RSItemsWebAttribDefValue-213-rows) (213 rows)
+- [RSItemTicket](#RSItemTicket-0-rows) (0 rows)
+- [RSItemUpdateLog](#RSItemUpdateLog-0-rows) (0 rows)
 - [RSItemVendor](#RSItemVendor-22393-rows) (22,393 rows)
+- [RSItemVendorRegion](#RSItemVendorRegion-0-rows) (0 rows)
 - [RSKitItem](#RSKitItem-112-rows) (112 rows)
 - [RSLabelSetting](#RSLabelSetting-477-rows) (477 rows)
+- [RSLayDetail](#RSLayDetail-0-rows) (0 rows)
+- [RSLayHeader](#RSLayHeader-0-rows) (0 rows)
+- [RSLayShip](#RSLayShip-0-rows) (0 rows)
+- [RSLinkItem](#RSLinkItem-12-rows) (12 rows)
+- [RSLockTable](#RSLockTable-2-rows) (2 rows)
+- [RSMainButtons](#RSMainButtons-12-rows) (12 rows)
+- [RSNextID](#RSNextID-35-rows) (35 rows)
+- [RSNextIDDelPool](#RSNextIDDelPool-0-rows) (0 rows)
+- [RSOEAllocateExcept](#RSOEAllocateExcept-0-rows) (0 rows)
+- [RSOETxnDetail](#RSOETxnDetail-0-rows) (0 rows)
+- [RSOETxnDetailMore](#RSOETxnDetailMore-0-rows) (0 rows)
+- [RSOETxnHeader](#RSOETxnHeader-0-rows) (0 rows)
+- [RSOETxnShip](#RSOETxnShip-0-rows) (0 rows)
+- [RSOpenDrawerLog](#RSOpenDrawerLog-0-rows) (0 rows)
+- [RSOrderTrack](#RSOrderTrack-0-rows) (0 rows)
+- [RSOthTxnCheck](#RSOthTxnCheck-0-rows) (0 rows)
+- [RSOthTxnCheckDetail](#RSOthTxnCheckDetail-0-rows) (0 rows)
 - [RSParameter](#RSParameter-517-rows) (517 rows)
+- [RSPKCOrderDetail](#RSPKCOrderDetail-0-rows) (0 rows)
+- [RSPKCOrderHeader](#RSPKCOrderHeader-0-rows) (0 rows)
+- [RSPKCOrderTxf](#RSPKCOrderTxf-0-rows) (0 rows)
+- [RSPKCPickupDetail](#RSPKCPickupDetail-0-rows) (0 rows)
+- [RSPKCPickupHeader](#RSPKCPickupHeader-0-rows) (0 rows)
+- [RSPKCRefundOrder](#RSPKCRefundOrder-0-rows) (0 rows)
+- [RSPriceMap](#RSPriceMap-10-rows) (10 rows)
+- [RSPrintForm](#RSPrintForm-92-rows) (92 rows)
+- [RSReason](#RSReason-1-row) (1 row)
+- [RSRegion](#RSRegion-0-rows) (0 rows)
+- [RSRoyalDetail](#RSRoyalDetail-0-rows) (0 rows)
+- [RSRoyalFee](#RSRoyalFee-0-rows) (0 rows)
+- [RSRoyalHeader](#RSRoyalHeader-0-rows) (0 rows)
+- [RSSalesButtons](#RSSalesButtons-19-rows) (19 rows)
+- [RSSalesCommission](#RSSalesCommission-0-rows) (0 rows)
 - [RSSecGroupFns](#RSSecGroupFns-1620-rows) (1,620 rows)
+- [RSSecGroups](#RSSecGroups-4-rows) (4 rows)
 - [RSSecGroupUsers](#RSSecGroupUsers-162-rows) (162 rows)
+- [RSSecSystemFnGroups](#RSSecSystemFnGroups-18-rows) (18 rows)
 - [RSSecSystemFns](#RSSecSystemFns-405-rows) (405 rows)
+- [RSSecSystems](#RSSecSystems-6-rows) (6 rows)
+- [RSSerialNumberChangeLog](#RSSerialNumberChangeLog-0-rows) (0 rows)
+- [RSShift](#RSShift-0-rows) (0 rows)
+- [RSShipMethod](#RSShipMethod-4-rows) (4 rows)
+- [RSSizeMatrix](#RSSizeMatrix-0-rows) (0 rows)
+- [RSSizeMatrixDetail](#RSSizeMatrixDetail-0-rows) (0 rows)
+- [RSSpiff](#RSSpiff-0-rows) (0 rows)
+- [RSSplitItem](#RSSplitItem-7-rows) (7 rows)
+- [RSSSBillCoupon](#RSSSBillCoupon-1-row) (1 row)
+- [RSSSBillDiscount](#RSSSBillDiscount-0-rows) (0 rows)
+- [RSSSBillSpecialPrice](#RSSSBillSpecialPrice-0-rows) (0 rows)
+- [RSSSCoupon](#RSSSCoupon-0-rows) (0 rows)
+- [RSSSCouponItem](#RSSSCouponItem-0-rows) (0 rows)
+- [RSSSCumuQtyDisc](#RSSSCumuQtyDisc-0-rows) (0 rows)
+- [RSSSCumuQtyDiscItem](#RSSSCumuQtyDiscItem-0-rows) (0 rows)
+- [RSSSCumuQtyDiscJoin](#RSSSCumuQtyDiscJoin-0-rows) (0 rows)
+- [RSSSCumuQtyDiscJoinDetail](#RSSSCumuQtyDiscJoinDetail-0-rows) (0 rows)
+- [RSSSCustomerSpecial](#RSSSCustomerSpecial-0-rows) (0 rows)
+- [RSSSCustomerSpecialMarkup](#RSSSCustomerSpecialMarkup-0-rows) (0 rows)
+- [RSSSDiscount](#RSSSDiscount-61-rows) (61 rows)
+- [RSSSMixMatch](#RSSSMixMatch-2-rows) (2 rows)
+- [RSSSPriceBreak](#RSSSPriceBreak-4-rows) (4 rows)
+- [RSSSPurchaseLimit](#RSSSPurchaseLimit-0-rows) (0 rows)
 - [RSSSSpecialPrice](#RSSSSpecialPrice-288-rows) (288 rows)
+- [RSSSTopNQtySpecial](#RSSSTopNQtySpecial-0-rows) (0 rows)
+- [RSSTMainBarFnButton](#RSSTMainBarFnButton-0-rows) (0 rows)
+- [RSSTMoreFnButton](#RSSTMoreFnButton-0-rows) (0 rows)
+- [RSStore](#RSStore-3-rows) (3 rows)
+- [RSSTSalesButtonLayout](#RSSTSalesButtonLayout-37-rows) (37 rows)
+- [RSSTSalesMenuLayout](#RSSTSalesMenuLayout-2-rows) (2 rows)
+- [RSSTTenderBarFnButton](#RSSTTenderBarFnButton-0-rows) (0 rows)
 - [RSSubcategory](#RSSubcategory-138-rows) (138 rows)
+- [RSTax](#RSTax-4-rows) (4 rows)
+- [RSTaxArea](#RSTaxArea-0-rows) (0 rows)
+- [RSTenderType](#RSTenderType-25-rows) (25 rows)
+- [RSTerms](#RSTerms-3-rows) (3 rows)
 - [RSTxnDetail](#RSTxnDetail-1249-rows) (1,249 rows)
+- [RSTxnDetailDelLog](#RSTxnDetailDelLog-0-rows) (0 rows)
+- [RSTxnDetailForeign](#RSTxnDetailForeign-0-rows) (0 rows)
+- [RSTxnDetailInventory](#RSTxnDetailInventory-0-rows) (0 rows)
+- [RSTxnDiscount](#RSTxnDiscount-0-rows) (0 rows)
+- [RSTxnExpenseDtl](#RSTxnExpenseDtl-0-rows) (0 rows)
 - [RSTxnHeader](#RSTxnHeader-490-rows) (490 rows)
+- [RSTxnHeaderForeign](#RSTxnHeaderForeign-0-rows) (0 rows)
+- [RSTxnPayment](#RSTxnPayment-0-rows) (0 rows)
+- [RSTxnReason](#RSTxnReason-29-rows) (29 rows)
+- [RSTxnShipping](#RSTxnShipping-15-rows) (15 rows)
+- [RSTxnTender](#RSTxnTender-0-rows) (0 rows)
+- [RSTxnTenderForeign](#RSTxnTenderForeign-0-rows) (0 rows)
 - [RSUserDrawer](#RSUserDrawer-1793-rows) (1,793 rows)
+- [RSUserProfile](#RSUserProfile-16-rows) (16 rows)
+- [RSWidth](#RSWidth-0-rows) (0 rows)
+- [RSWorkstation](#RSWorkstation-23-rows) (23 rows)
 
 
 [RS0000HISTORY](#RS0000HISTORY)
 - [RSCashierClosingTender](#RSCashierClosingTender-113162-rows) (113,162 rows)
 - [RSCashierClosingTenderDetail](#RSCashierClosingTenderDetail-137093-rows) (137,093 rows)
+- [RSCashPickup](#RSCashPickup-0-rows) (0 rows)
 - [RSCCACreditRequest](#RSCCACreditRequest-132498-rows) (132,498 rows)
 - [RSCCASummary](#RSCCASummary-3579-rows) (3,579 rows)
+- [RSCUPBatchClose](#RSCUPBatchClose-0-rows) (0 rows)
+- [RSCUPRequest](#RSCUPRequest-0-rows) (0 rows)
 - [RSDailyClose](#RSDailyClose-2015-rows) (2,015 rows)
+- [RSGLJournal](#RSGLJournal-92-rows) (92 rows)
+- [RSSalesCommission](#RSSalesCommission-0-rows) (0 rows)
+- [RSTxnDeletedDetail](#RSTxnDeletedDetail-0-rows) (0 rows)
 - [RSTxnDetail](#RSTxnDetail-4710294-rows) (4,710,294 rows)
+- [RSTxnDetailForeign](#RSTxnDetailForeign-0-rows) (0 rows)
+- [RSTxnExpenseDtl](#RSTxnExpenseDtl-0-rows) (0 rows)
 - [RSTxnHeader](#RSTxnHeader-1977798-rows) (1,977,798 rows)
+- [RSTxnHeaderForeign](#RSTxnHeaderForeign-0-rows) (0 rows)
 - [RSTxnPayment](#RSTxnPayment-4021-rows) (4,021 rows)
 - [RSTxnReason](#RSTxnReason-5936-rows) (5,936 rows)
 - [RSTxnShipping](#RSTxnShipping-7633-rows) (7,633 rows)
 - [RSTxnTender](#RSTxnTender-2489942-rows) (2,489,942 rows)
+- [RSTxnTenderForeign](#RSTxnTenderForeign-0-rows) (0 rows)
+- [RSAirMilesDetail](#RSAirMilesDetail-0-rows) (0 rows)
 - [RSOpenDrawerLog](#RSOpenDrawerLog-59966-rows) (59,966 rows)
+- [ProfitekSystem](#ProfitekSystem-1-row) (1 row)
+- [RSARRequest](#RSARRequest-0-rows) (0 rows)
 - [RSCashierClosing](#RSCashierClosing-18111-rows) (18,111 rows)
 
 
 [RS0000PODATA](#RS0000PODATA)
 - [POHeader](#POHeader-3981-rows) (3,981 rows)
+- [POParameter](#POParameter-32-rows) (32 rows)
+- [PORemark](#PORemark-1-row) (1 row)
+- [POShipToAddress](#POShipToAddress-0-rows) (0 rows)
+- [ProfitekSystem](#ProfitekSystem-1-row) (1 row)
+- [POCompanyInfo](#POCompanyInfo-1-row) (1 row)
 - [PODetail](#PODetail-719892-rows) (719,892 rows)
+- [PODetailSize](#PODetailSize-0-rows) (0 rows)
 
 
 [RS0000WNDATA](#RS0000WNDATA)
-
+- [RSWNFormSubcategory](#RSWNFormSubcategory-0-rows) (0 rows)
+- [RSWNItemImportSubcatMatch](#RSWNItemImportSubcatMatch-0-rows) (0 rows)
+- [RSWNParameter](#RSWNParameter-0-rows) (0 rows)
+- [RSWNPeriodMonth](#RSWNPeriodMonth-0-rows) (0 rows)
+- [RSWNPeriodTask](#RSWNPeriodTask-0-rows) (0 rows)
+- [RSWNPeriodTaskInvRange](#RSWNPeriodTaskInvRange-0-rows) (0 rows)
+- [RSWNPeriodTaskSalesRange](#RSWNPeriodTaskSalesRange-0-rows) (0 rows)
+- [RSWNPeriodYear](#RSWNPeriodYear-0-rows) (0 rows)
+- [RSWNRentalItem](#RSWNRentalItem-0-rows) (0 rows)
+- [ProfitekSystem](#ProfitekSystem-1-row) (1 row)
+- [RSWNBatchReport](#RSWNBatchReport-0-rows) (0 rows)
+- [RSWNFormCustType](#RSWNFormCustType-0-rows) (0 rows)
 
 
 # AR0000DATA
 
-Showing tables with at least 100 rows.
+Showing tables with at least 0 rows.
+
+### ARCard (0 rows)
+
+### ARCompany (1 row)
+
+Contains just contact info for Legacy Liquor.
+
+<details>
+<summary>View random sample</summary>
+
+| Name | Address | City | Province | PostalCode | Country | Phone | Fax | WebSite | BusinessNum | SerialNum | StoreNum | Version | Licenses | Logo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Legacy Liquor Store | 1633 Manitoba Street | Vancouver | BC | V5Y 0B8 | Canada | (604) 331-7900 | (   )    - | null | null | 855-736-603-315-649 | 0 | 9.3.2 | 0 | null |
+
+</details>
+
+### ARCurrency (0 rows)
 
 ### ARCustomer (7,926 rows)
 
@@ -129,6 +374,14 @@ Customer data, such as Customer ID, name, phone, acct open date, credit limit, p
 | 301390 | Forsyth, Max | CP | null | null | Vancouver | BC | null | Canada | 7782314205 | null | null | null | null | 2016-07-03T00:00:00.000Z | A | CDN | 0 | 0 | 0 | 0 | null | 1 | Convert | Convert | 2013-06-11T09:53:00.337Z | 1 | 0 | null | camra member expiry october 31, 2015 (jericho) | N | null | null |
 
 </details>
+
+### ARCustomerType (0 rows)
+
+### ARDeletedInvoice (0 rows)
+
+### ARDeletedPayment (0 rows)
+
+### ARGLTxn (0 rows)
 
 ### ARInvoice (4,101 rows)
 
@@ -199,6 +452,22 @@ Seem to be admin logs.
 | 230 | InvoiceList | 2014-06-25T09:45:17.310Z | ADMIN | Administrator | null | null | 0 | true |
 | 321 | ARDetailListing | 2015-04-06T16:19:21.017Z | 1056 | Dylan Palmer | null | null | 0 | true |
 | 56 | AgedARReport | 2013-08-28T11:29:44.540Z | ADMIN | Administrator | null | null | 0 | true |
+
+</details>
+
+### ARNextID (4 rows)
+
+A table that holds values for the next ID value for customer, invoice, invoice number and payment.
+
+<details>
+<summary>View random sample</summary>
+
+| IDName | Prefix | IDValue | Length | Min | Max | Increment | LockedAt |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| PaymentID | null | 1746 | null | 1 | 2147483647 | 1 | null |
+| CustomerID | null | 0 | 0 | 0 | 0 | 0 | null |
+| InvoiceID | null | 4123 | null | 1 | 2147483647 | 1 | null |
+| InvoiceNumber | null | 0 | 0 | 0 | 0 | 0 | null |
 
 </details>
 
@@ -274,9 +543,127 @@ A table containing payment id, line number, payment amount.
 
 </details>
 
+### ARProfile (50 rows)
+
+Seems to contain some minor config data
+
+<details>
+<summary>View random sample</summary>
+
+| ValueName | Value | Description | Type | LastUpdate | UserID |
+| --- | --- | --- | --- | --- | --- |
+| StmtDefault | 1 | Print statement default | null | 2001-12-21T10:28:01.000Z | 1001 |
+| AgeGroup1 | 30 | Age group 1 | null | 2001-12-21T10:28:01.000Z | 1001 |
+| MinInterest | 0.00 | null | null | null | null |
+| MaxAmtPerDay | 0 | Maximum amount per day | null | 2001-12-21T10:28:02.000Z | 1001 |
+| City | null | null | null | 2001-12-21T10:28:02.000Z | 1001 |
+| GSTAcct | null | Account number of GST GL account | null | 2002-12-10T00:00:00.000Z | null |
+| LocalCurrency | CDN | null | null | null | null |
+| InterestGLDept | null | null | null | null | null |
+| MaxAmtPerMonth | 0 | Maximum amount per Month | null | 2002-02-14T14:23:54.000Z | 1001 |
+| StmtRemark | null | null | null | 2001-12-21T10:28:01.000Z | 1001 |
+| EmailUserName | ar@granvillevan.com | null | null | null | null |
+| MaxAmtPerTxn | 0 | Maximum amount per transaction | null | 2001-12-21T10:28:02.000Z | 1001 |
+
+</details>
+
+### ARRecurringInvoice (0 rows)
+
+### ARRecurringInvoiceDetail (0 rows)
+
+### ARSalesRep (0 rows)
+
+### ARSecurity (0 rows)
+
+### ARShipVia (0 rows)
+
+### ARStore (0 rows)
+
+### ARTemplate (0 rows)
+
+### GLChartofAcct (0 rows)
+
+### GLDept (0 rows)
+
 # FDDATA
 
-Showing tables with at least 100 rows.
+Showing tables with at least 0 rows.
+
+### FDAwardType (0 rows)
+
+### FDCompany (1 row)
+
+Contains just contact info for Legacy Liquor.
+
+<details>
+<summary>View random sample</summary>
+
+| CompanyID | Name | Address | City | Province | PostalCode | Country | Phone | Fax | BusinessNum | SerialNum | StoreNum | Version | Licenses | Logo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 | Legacy Liquor Store | 1633 Manitoba Street | Vancouver | BC | V5Y 0B8 | Canada | (604) 331-7900 | (___) ___-____ | null | 742-445-576-597-723 | 0 | 9.1.0 | 0 | null |
+
+</details>
+
+### FDProfile (14 rows)
+
+Seems to contain minor config data.
+
+<details>
+<summary>View random sample</summary>
+
+| ValueName | Value | Description | Type | LastUpdate | UserID |
+| --- | --- | --- | --- | --- | --- |
+| GLStoreNum | 0 | Integrated to which  store | null | 2003-02-26T18:01:06.000Z | 1001 |
+| QPQty | 1 | null | null | 2003-02-26T18:01:06.000Z | 1001 |
+| QPPoint | 1 | null | null | 2003-02-26T18:01:06.000Z | 1001 |
+| PDDollar | 0.00 | null | null | 2003-02-26T18:01:07.000Z | 1001 |
+| DPDollar | 0.00 | null | null | 2003-02-26T18:01:06.000Z | 1001 |
+| MultiDept | Y | GL account with multi-department | null | 2003-02-26T18:01:06.000Z | 1001 |
+| PQPoint | 100 | null | null | 2003-02-26T18:01:06.000Z | 1001 |
+| DPPoint | 0 | null | null | 2003-02-26T18:01:06.000Z | 1001 |
+| PQQty | 1 | null | null | 2003-02-26T18:01:07.000Z | 1001 |
+| RedemptionType | Q | Redeem points Based on Qty for Dollor | null | 2003-02-26T18:01:06.000Z | 1001 |
+| PDPoint | 0 | null | null | 2003-02-26T18:01:07.000Z | 1001 |
+| IssuanceType | Q | Earn points Based on Qty or Dollor | null | 2003-02-26T18:01:06.000Z | 1001 |
+
+</details>
+
+### FDSecurity (33 rows)
+
+Seems to contain minor config data.
+
+<details>
+<summary>View random sample</summary>
+
+| Code | Description | AccessLevel |
+| --- | --- | --- |
+| 020040 | Redemption Report | 0 |
+| 030040 | Award Type | 0 |
+| 020035 | Bonus Points Report | 0 |
+| 030010 | Customer Type | 0 |
+| 020010 | Sales Analysis Report | 0 |
+| 020090 | Point Balance By Store | 0 |
+| 020050 | Active/Inactive Customer  Report | 0 |
+| 020020 | Top Diner List | 0 |
+| 040050 | Company Information | 0 |
+| 040060 | Purge Data | 0 |
+| 020030 | Point Balance Report | 0 |
+| 020080 | Sales Report By Customer | 0 |
+
+</details>
+
+### FDStore (1 row)
+
+Contains just the store name (Legacy)
+
+<details>
+<summary>View random sample</summary>
+
+| StoreNum | DBNum | StoreName | ServerName |
+| --- | --- | --- | --- |
+| 1 | 0 | Legacy | null |
+
+</details>
 
 ### FDTxnPoint (1,333,696 rows)
 
@@ -304,7 +691,7 @@ Transaction history for some sort of store points, along with remarks
 
 # PSCUSTOMER
 
-Showing tables with at least 100 rows.
+Showing tables with at least 0 rows.
 
 ### Customer (76,150 rows)
 
@@ -330,13 +717,139 @@ Customer info, such as name, contacts, etc. Very messy and incomplete.
 
 </details>
 
+### CustomerDemographic (0 rows)
+
+### CustomerSearchKey (0 rows)
+
+### CustomerType (0 rows)
+
+### DemographicChoice (0 rows)
+
+### DemographicDef (0 rows)
+
+### DisallowedTender (0 rows)
+
+### FDCard (1 row)
+
+Contains just one customer ID.
+
+<details>
+<summary>View random sample</summary>
+
+| CustomerID | CardNum |
+| --- | --- |
+| 000-00501898 | null |
+
+</details>
+
+### PSNextID (0 rows)
+
+### SearchKeyDef (0 rows)
+
 # PSDATA
 
-This database contains no tables with at least 100 rows.
+Showing tables with at least 0 rows.
+
+### PSAccessSystem (6 rows)
+
+Contains six abbreviations and their descriptions.
+
+<details>
+<summary>View random sample</summary>
+
+| AccessSystem | Description |
+| --- | --- |
+| VIP | VIP System |
+| ARW | ARW |
+| AR | Accounts Receivable |
+| HC | null |
+| UC | User Configuration |
+| GC | Gift Card |
+
+</details>
+
+### PSBackupServer (0 rows)
+
+### PSFont (36 rows)
+
+Font settings.
+
+<details>
+<summary>View random sample</summary>
+
+| LanguageName | Description | FontFamilyName | FontSize | FontStyle | FontCharSet | UserModified |
+| --- | --- | --- | --- | --- | --- | --- |
+| TChinese | KitchenDetail | 新細明體 | 20 | 1 | 136 | false |
+| English | KitchenDetail | Arial | 15 | 1 | 0 | false |
+| English | KitchenHeaderEnglish | Arial | 12 | 0 | 1 | false |
+| English | ClosingReport | Arial | 9 | 0 | 0 | false |
+| English | ServerCloseHeader | Arial | 12 | 0 | 1 | false |
+| TChinese | KitchenTableInfo | 新細明體 | 21 | 1 | 136 | false |
+| English | ClosingReportHeader | Arial | 10 | 0 | 0 | false |
+| Schinese | DefaultMedium | NSimSun | 15 | 0 | 134 | false |
+| English | KitchenHeader | Arial | 9 | 0 | 0 | false |
+| English | EnglishMedium | Arial | 12 | 0 | 1 | false |
+| English | EnglishMessage | Arial | 12 | 0 | 1 | false |
+| English | KitchenTableInstruction | Arial | 12 | 0 | 1 | false |
+
+</details>
+
+### PSMessage (0 rows)
+
+### PSUserSystem (60 rows)
+
+Access config for the 10 users from PSUser table.
+
+<details>
+<summary>View random sample</summary>
+
+| UserID | AccessSystem | AccessLevel |
+| --- | --- | --- |
+| ADMIN | AR | 9 |
+| ADMIN | UC | 9 |
+| 1056 | ARW | 9 |
+| Bentley | VIP | 0 |
+| 222 | VIP | -1 |
+| darryl | AR | -1 |
+| Ron | HC | -1 |
+| 0216 | HC | -1 |
+| darryl | UC | 99 |
+| 1056 | VIP | 9 |
+| 222 | ARW | -1 |
+| Gordon | VIP | 0 |
+
+</details>
 
 # PSGIFTCARD
 
-Showing tables with at least 100 rows.
+Showing tables with at least 0 rows.
+
+### GCCardType (2 rows)
+
+Contains two gift card types.
+
+<details>
+<summary>View random sample</summary>
+
+| CardType | Description | InitialValue | Refillable | AllowPartialRedemption | ExpiryPeriod | MaxAmount | DailyLimitAmount | DailyLimitTxn | NonSale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| REG | Regular Gift Card | 0 | true | true | 0 | 0 | null | null | null |
+| PROMO | Card Giveaways | 0 | true | true | 12 | 0 | null | null | null |
+
+</details>
+
+### GCCompany (1 row)
+
+Contains just contact info for Legacy Liquor.
+
+<details>
+<summary>View random sample</summary>
+
+| CompanyID | CompanyName | Address | City | Province | PostalCode | Country | Phone | Fax | BusinessNum | SerialNum | StoreNum | Version | Licenses | ReportLogo | ReceiptLogo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Legacy Liquor Store | 1633 Manitoba Street | Vancouver | BC | V5Y 0B8 | Canada | (604)331-7900 | null | null | null | 0 | 10.1.0 | 2 | null | null |
+
+</details>
 
 ### GCGiftCard (4,199 rows)
 
@@ -361,6 +874,49 @@ Contains gift card data with dollar value, issue date, etc.
 | 2591 | 0 | null | null | null | null | true | A | 0 |  | P | REG | 0 |
 
 </details>
+
+### GCProfile (5 rows)
+
+Basic config for gift cards (expiry period, language code, etc).
+
+<details>
+<summary>View random sample</summary>
+
+| ValueName | Value | LastUpdate | EmployeeID | Remark |
+| --- | --- | --- | --- | --- |
+| ExpiryPeriod | 12 | 2003-09-25T00:00:00.000Z | 0 | null |
+| LanguageCode | 1033 | null | null | null |
+| InitialValue |  | 2003-10-03T00:00:00.000Z | 0 | null |
+| RedemptionMode | P | null | null | null |
+| Refillable | True | 2003-10-03T00:00:00.000Z | 0 | null |
+
+</details>
+
+### GCSecurity (24 rows)
+
+Different gift card actions and action levels.
+
+<details>
+<summary>View random sample</summary>
+
+| Section | SecurityNum | AccessLevel | Log |
+| --- | --- | --- | --- |
+| Gift Card | Transaction Report | 0 | false |
+| Gift Card | Card Type | 0 | null |
+| Gift Card | Company Information | 0 | false |
+| Gift Card | Add Gift Card | 0 | false |
+| GC Terminal | Inquiry | 0 | false |
+| Gift Card | Issue Card | 0 | false |
+| Gift Card | Adjust Balance | 0 | null |
+| Gift Card | Issue Card By Batch | 0 | null |
+| Gift Card | Add Detail | 0 | false |
+| Gift Card | Users Setup | 0 | false |
+| Gift Card | Edit Card By Batch | 0 | null |
+| GC Terminal | Daily Close | 0 | false |
+
+</details>
+
+### GCStore (0 rows)
 
 ### GCTxnDetail (29,285 rows)
 
@@ -388,7 +944,20 @@ Gift card transaction details.
 
 # RS0000CUSTOMER
 
-Showing tables with at least 100 rows.
+Showing tables with at least 0 rows.
+
+### ProfitekSystem (1 row)
+
+Contains one config row.
+
+<details>
+<summary>View random sample</summary>
+
+| ID | Keys | Values | Desc |
+| --- | --- | --- | --- |
+| 1 | RS0000CUSTOMER | 220 | 11.12.1 |
+
+</details>
 
 ### RSCustomer (78,601 rows)
 
@@ -411,6 +980,32 @@ Contains lots of customer information, including financials such as purchase tot
 | 0 | 524811 | CP | A | null |  | Lucci, Vera |  | 9057451981 |  |  |  |  |  |  | false | || | Vancouver | BC | Canada |  | null | luccivm@gmail.com | false | false | false | 2016-01-19T22:02:16.000Z | null | 0 | 0 |  | false |  | T |  | COD | 0 | 0 | 0 | 1 | 0 | 0 |  | false | false |  |  |  |  |  |  |  |  |  |  | false | false | false | false |  |  |  |  |  | || |  |  | false | 0 | 0 | 0 | null | 2016-01-19T22:03:01.000Z | /1/3/4/5/6/7/8/9/10/11/12/15/17/18/ |  |  |  | true | true | 54382 | D | false |  |  |  | false |
 | 0 | 270300 |  | A | null |  | Don McTyre |  |  |  |  |  |  |  |  | false | 9220 Kimmer Drive|Suite 230| | Lone Tree | CO | US | 80124 | null |  | false | false | false | 2016-02-22T19:09:09.000Z | null | 0 | 0 |  | false |  | N |  | COD | 0 | 0 | 0 | 1 | 0 | 0 |  | false | false |  |  |  |  |  |  |  |  |  |  | false | false | false | false |  |  |  |  |  | || |  |  | false | 0 | 0 | 0 | null | 2016-04-05T16:05:42.000Z | /1/3/4/5/6/7/8/9/10/11/12/15/17/18/ |  |  |  | false | true | 55351 | D | false |  |  |  | false |
 | 0 | 504155 |  | A | null |  | Dufton, John |  | 7783492769 |  |  |  |  |  |  | false | || | Vancouver | BC | Canada |  | null | jdufton@hotmail.com | false | false | false | 2013-10-12T12:34:46.000Z | null | 0 | 0 |  | false |  | T |  | COD | 0 | 0 | 0 | 1 | 0 | 0 |  | false | false |  |  |  |  |  |  |  |  |  |  | false | false | false | false |  |  |  |  |  | || |  |  | false | 0 | 0 | 0 | null | 2013-10-12T12:35:12.000Z | /1/3/4/5/6/7/8/9/10/11/15/12/17/18/ |  |  |  | true | true | 32568 | D | false |  |  |  | false |
+
+</details>
+
+### RSCustomerCity (0 rows)
+
+### RSCustomerContact (22 rows)
+
+Contact info for 22 customers.
+
+<details>
+<summary>View random sample</summary>
+
+| CustStore | CustomerID | Line | Contact | Title | EMail | Phone | Extension | WorkPhone | WorkExtension | CellPhone | MailLabel | IsInvoiceContact | IsStatementContact | IsOEOUser | Password | IsEmailNotification |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 | 112694 | 1 | Mirko |  |  |  |  |  |  |  | false | false | false | null | null | null |
+| 0 | 112666 | 1 | mirko |  |  |  |  |  |  |  | false | false | false | null | null | null |
+| 0 | 100659 | 1 | mirko |  |  |  |  |  |  |  | false | false | false | null | null | null |
+| 0 | 100348 | 1 | mirko |  |  |  |  |  |  |  | false | false | false | false |  | false |
+| 0 | 107751 | 1 | mirko |  |  |  |  |  |  |  | false | false | false | null | null | null |
+| 0 | 105952 | 1 |  |  | manuelataylor69@gmail.com |  |  |  |  |  | false | false | false | null | null | null |
+| 0 | 510398 | 1 | Wesley McMillan | Barrister | wmcmillan@harpergrey.com | 6048952843 |  |  |  |  | false | false | false | null | null | null |
+| 0 | 510415 | 1 | Hollie Latreille | Site Super | GOS1@rbs.ca |  |  |  |  |  | false | false | false | false |  | false |
+| 0 | 111278 | 1 | mirko |  |  |  |  |  |  |  | false | false | false | null | null | null |
+| 0 | 526053 | 1 | 6045126738 |  |  |  |  |  |  |  | false | false | false | null | null | null |
+| 0 | 114753 | 1 | mirko |  |  |  |  |  |  |  | false | false | false | null | null | null |
+| 0 | 112490 | 1 | MIRKO |  |  |  |  |  |  |  | false | false | false | null | null | null |
 
 </details>
 
@@ -438,9 +1033,93 @@ Seems to contain data on deleted customers, with dates as well as customer ID an
 
 </details>
 
+### RSCustomerPrefer (0 rows)
+
+### RSCustomerProvince (13 rows)
+
+Abbreviations and names for 13 Canadian provinces and territories.
+
+<details>
+<summary>View random sample</summary>
+
+| ProvinceCode | ProvinceDesc |
+| --- | --- |
+| ON | Ontario |
+| NL | Newfoundland and Labrador |
+| QC | Quebec |
+| YT | Yukon |
+| PE | Prince Edward Island |
+| BC | British Columbia |
+| NT | Northwest Territories |
+| AB | Alberta |
+| NB | New Brunswick |
+| SK | Saskatchewan |
+| NU | Nunavut |
+| NS | Nova Scotia |
+
+</details>
+
+### RSCustomerSubcategory (0 rows)
+
+### RSCustomerType (5 rows)
+
+Contains five different customer types.
+
+<details>
+<summary>View random sample</summary>
+
+| CustType | Desc1 | Desc2 | CurrencyCode | PriceLevel | Markup | DiscountRate | Level | InhertAllCustSS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CP | POINTS | POINTS |  |  | 0 | 0 | 0 | true |
+| CQ | QUAICH | QUAICH |  |  | 0 | 0 | 0 | true |
+| WC | LEGACY WINE CLUB | LEGACY WINE CLUB |  |  | 0 | 0 | 0 | true |
+| WS | SMWS | SMWS |  |  | 0 | 0 | 0 | true |
+| XP | EXEMPT | EXEMPT |  |  | 0 | 0 | 0 | true |
+
+</details>
+
 # RS0000DATA
 
-Showing tables with at least 100 rows.
+Showing tables with at least 0 rows.
+
+### ProfitekSystem (1 row)
+
+Contains one config row.
+
+<details>
+<summary>View random sample</summary>
+
+| ID | Keys | Values | Desc |
+| --- | --- | --- | --- |
+| 1 | RS0000DATA | 320 | 11.12.1 |
+
+</details>
+
+### RSAirMilesDetail (0 rows)
+
+### RSAirMilesOffer (13 rows)
+
+Some descriptions of Air Miles offers.
+
+<details>
+<summary>View random sample</summary>
+
+| OfferCode | OfferDesc | AccessGroup | Active | Value | Type | MinSalesAmt | Extra |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1007PALS | 20 Bonus Miles | 001002,001003,001004 | true | 20 | F | 20 |  |
+| 9813PALS | 3 Times Standard Mile | 001002,001003,001004 | true | 3 | M | 20 |  |
+| 1004PALS | 4 Bonus Miles | 001002,001003,001004 | true | 4 | F | 20 |  |
+| 1005PALS | 5 Bonus Miles | 001002,001003,001004 | true | 5 | F | 20 |  |
+| 9812PALS | 2 Times Standard Mile | 001002,001003,001004 | true | 2 | M | 20 |  |
+| 9814PALS | 4 Times Standard Mile | 001002,001003,001004 | true | 4 | M | 20 |  |
+| 1003PALS | 3 Bonus Miles | 001002,001003,001004 | true | 3 | F | 20 |  |
+| 1008PALS | 50 Bonus Miles | 001002,001003,001004 | true | 50 | F | 20 |  |
+| 1006PALS | 10 Bonus Miles | 001002,001003,001004 | true | 10 | F | 20 |  |
+| 1001PALS | 1 Bonus Mile | 001002,001003,001004 | true | 1 | F | 20 |  |
+| 1009PALS | 100 Bonus Miles | 001002,001003,001004 | true | 100 | F | 20 |  |
+| STANDARD | 1 Mile for Every $20 Spent (Incl. Taxes & Deposit) | ALLGROUP | true | 0 | S | 20 |  |
+
+</details>
 
 ### RSAPVendor (521 rows)
 
@@ -466,6 +1145,76 @@ Vendor information, including contacts and financials.
 
 </details>
 
+### RSAPVendorType (0 rows)
+
+### RSARRequest (21 rows)
+
+Looks like some transaction data, with amounts, customer IDs, employee 'IDs', etc.
+
+<details>
+<summary>View random sample</summary>
+
+| ARRequestID | TxnID | LineNum | CustStore | CustomerID | TxnCode | ARCustomerNumber | Amount | ForAmount | TxnDate | EmployeeID | EmployeeName | DataStatus | ARCustomerName | Balance |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 1146865 | 1 | 0 | 516473 | DE | 516473 | 472 | 0 | 2016-03-16T11:44:07.000Z | 1056 | DYLAN | VN |  | 0 |
+| 20 | 1969151 | 0 | 0 | 409501 | DE | 409501 | 679.92 | 679.92 | 2018-10-15T16:32:18.000Z | 1056 | DYLAN | VN |  | 0 |
+| 15 | 1744049 | 1 | 0 | 112723 | DE | 112723 | 66 | 0 | 2018-02-14T18:40:21.000Z | CASH | Cashier | VN |  | 0 |
+| 21 | 1976679 | 1 | 0 | 530259 | DE | 530259 | 559.7 | 0 | 2018-10-25T07:37:59.000Z | CASH | Cashier | VN |  | 0 |
+| 18 | 1915184 | 1 | 0 | 531060 | DE | 531060 | 219.2 | 0 | 2018-08-16T12:23:55.000Z | CASH | Cashier | VN |  | 0 |
+| 13 | 1612169 | 0 | 0 | 300237 | DE | 300237 | 56.6 | 56.6 | 2017-09-01T19:27:23.000Z | 83 | MILES | VN |  | 0 |
+| 19 | 1959689 | 0 | 0 | 516473 | DE | 516473 | 625.2 | 625.2 | 2018-10-05T12:48:43.000Z | 1056 | DYLAN | VN |  | 0 |
+| 12 | 1518713 | 0 | 0 | 528920 | DE | 528920 | -1715.95 | -1715.95 | 2017-06-01T13:48:25.000Z | 16 | CHARLENE | VN |  | 0 |
+| 14 | 1666384 | 1 | 0 | 516473 | DE | 516473 | 4193.25 | 0 | 2017-11-06T16:38:53.000Z | CASH | Cashier | VN |  | 0 |
+| 5 | 1158047 | 1 | 0 | 515232 | DE | 515232 | -191.65 | 0 | 2016-03-29T16:15:45.000Z | 1056 | DYLAN | VN |  | 0 |
+| 7 | 1247312 | 1 | 0 | 116444 | DE | 116444 | 2057.6 | 0 | 2016-07-05T11:27:58.000Z | 1056 | DYLAN | VN |  | 0 |
+| 11 | 1516647 | 1 | 0 | 516473 | DE | 516473 | 1247.4 | 0 | 2017-05-29T11:50:48.000Z | CASH | Cashier | VN |  | 0 |
+
+</details>
+
+### RSAWItemBonusPoints (6 rows)
+
+Item code, start/end dates, and bonus points.
+
+<details>
+<summary>View random sample</summary>
+
+| RecordID | ItemCode | StartDate | EndDate | BonusPoints |
+| --- | --- | --- | --- | --- |
+| 6 | 208314 | 2012-05-01T00:00:00.000Z | 2012-05-31T00:00:00.000Z | 25 |
+| 1 | 1248 | 2012-05-01T00:00:00.000Z | 2012-05-31T00:00:00.000Z | 10 |
+| 5 | 208264 | 2012-05-01T00:00:00.000Z | 2012-05-31T00:00:00.000Z | 25 |
+| 3 | 169987 | 2012-05-01T00:00:00.000Z | 2012-05-31T00:00:00.000Z | 10 |
+| 2 | 168989 | 2012-05-01T00:00:00.000Z | 2012-05-31T00:00:00.000Z | 25 |
+| 4 | 208256 | 2012-05-01T00:00:00.000Z | 2012-05-31T00:00:00.000Z | 25 |
+
+</details>
+
+### RSAWItemPointsExempt (15 rows)
+
+Item code, start/end dates.
+
+<details>
+<summary>View random sample</summary>
+
+| RecordID | ItemCode | StartDate | EndDate |
+| --- | --- | --- | --- |
+| 7 | 18402 | 2017-09-01T00:00:00.000Z | 2017-09-30T00:00:00.000Z |
+| 6 | 534099 | 2017-08-28T00:00:00.000Z | 2017-08-28T00:00:00.000Z |
+| 9 | 215020 | 2018-04-02T00:00:00.000Z | 2019-04-02T00:00:00.000Z |
+| 3 | GCR | 2011-01-09T00:00:00.000Z | 2025-01-09T00:00:00.000Z |
+| 11 | 316125 | 2018-07-05T00:00:00.000Z | 2019-07-05T00:00:00.000Z |
+| 5 | 195917 | 2017-07-21T00:00:00.000Z | 2017-08-21T00:00:00.000Z |
+| 13 | 794305 | 2018-07-16T00:00:00.000Z | 2019-07-17T00:00:00.000Z |
+| 1 | D100 | 2011-01-17T00:00:00.000Z | null |
+| 14 | 582361 | 2018-09-06T00:00:00.000Z | 2019-09-06T00:00:00.000Z |
+| 4 | 192724 | 2017-07-21T00:00:00.000Z | 2017-08-21T00:00:00.000Z |
+| 12 | 416198 | 2018-07-16T00:00:00.000Z | 2019-07-16T00:00:00.000Z |
+| 10 | 18402 | 2018-07-05T00:00:00.000Z | 2019-07-05T00:00:00.000Z |
+
+</details>
+
+### RSAWItemRedemptionPoints (0 rows)
+
 ### RSBarcode (27,911 rows)
 
 Barcode, item code, size code, color code, width code.
@@ -490,6 +1239,168 @@ Barcode, item code, size code, color code, width code.
 
 </details>
 
+### RSCashierClosing (0 rows)
+
+### RSCashierClosingTender (0 rows)
+
+### RSCashierClosingTenderDetail (0 rows)
+
+### RSCashPickup (0 rows)
+
+### RSCashValue (11 rows)
+
+Tender type ID, description, face value.
+
+<details>
+<summary>View random sample</summary>
+
+| TenderTypeID | Description | FaceValue | SortNo |
+| --- | --- | --- | --- |
+| 1 | 5 Cents | 0.05 | 9 |
+| 1 | $ 5 | 5 | 3 |
+| 1 | $ 20 | 20 | 5 |
+| 1 | $ 1 | 1 | 1 |
+| 1 | $ 2 | 2 | 2 |
+| 1 | 1 Cents | 0.01 | 8 |
+| 1 | 10 Cents | 0.1 | 10 |
+| 1 | $ 50 | 50 | 6 |
+| 1 | $ 100 | 100 | 7 |
+| 1 | 25 Cents | 0.25 | 11 |
+| 1 | $ 10 | 10 | 4 |
+
+</details>
+
+### RSCategory (16 rows)
+
+List of categories, probably different product/transaction categories.
+
+<details>
+<summary>View random sample</summary>
+
+| CatCode | Desc1 | Desc2 | SalesType | TaxExemptQty1 | TaxExemptQty2 | TaxExemptQty3 | TaxExemptQty4 | Extra |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 | Draught Beers | Draught Beers | S | 0 | 0 | 0 | 0 |  |
+| GC | Gift Cards | Gift Cards | N | 0 | 0 | 0 | 0 | null |
+| 60 | N/A Beverages | N/A Beverages | S | 0 | 0 | 0 | 0 | null |
+| 55 | SAKE | SAKE | S | 0 | 0 | 0 | 0 | null |
+| CD | Cash Drop | Cash Drop | S | 0 | 0 | 0 | 0 | null |
+| 10 | Coolers | Coolers | S | 0 | 0 | 0 | 0 |  |
+| 70 | Tobacco Product | Tobacco Product | S | 0 | 0 | 0 | 0 | null |
+| DP | Deposits | Deposits | N | 0 | 0 | 0 | 0 | null |
+| 99 | Non Sales | Non Sales | N | 0 | 0 | 0 | 0 | null |
+| 30 | Packaged Beers | Packaged Beers | S | 0 | 0 | 0 | 0 | null |
+| RT | Bottle Returns | Bottle Returns | S | 0 | 0 | 0 | 0 | null |
+| LT | Lotto | Lotto | S | 0 | 0 | 0 | 0 | null |
+
+</details>
+
+### RSCCACreditRequest (0 rows)
+
+### RSCCACreditRequestBak (0 rows)
+
+### RSCCAEncryptFail (0 rows)
+
+### RSCCAProfile (16 rows)
+
+Config related to banking and payments.
+
+<details>
+<summary>View random sample</summary>
+
+| WSCode | ValueName | Value | LastUpdate | EmployeeID | Remark |
+| --- | --- | --- | --- | --- | --- |
+| -1 | ESPHostAddress | www3.moneris.com | 2013-02-13T13:31:11.000Z |  |  |
+| -1 | POSPADSettlementOption | 1 | 2013-02-13T13:31:11.000Z |  |  |
+| -1 | PaymentechICT250Log | \\192.168.2.2\CCALog | 2014-11-24T13:53:03.000Z |  |  |
+| -1 | YPBatchHost | https://www.yes-technologies.com/embossreport/services/EmbossReportingServices | 2013-06-04T16:36:33.000Z |  |  |
+| -1 | SuppressDCCCADetail | N | 2016-06-15T13:00:12.000Z |  |  |
+| -1 | NumberOfCopies | 2 | 2013-02-13T13:31:11.000Z |  |  |
+| -1 | CCASerialNumber | 101-101-188-307-539 | 2013-02-13T13:31:11.000Z |  |  |
+| -1 | PauseAfterPrtCopy | N | 2013-02-13T13:31:11.000Z |  |  |
+| -1 | CardDataRetentionDays | 180 | 2013-02-13T13:31:11.000Z |  |  |
+| -1 | YPPassword | k@vJaKyXeyrxt_~NLlyRvRDwJ{YIGOMiX_NCqDKm_l | 2013-06-04T16:46:24.000Z |  |  |
+| -1 | CCALicensesCount | 7 | 2013-02-13T13:31:11.000Z |  |  |
+| -1 | CCAEnable | Y | 2013-02-13T13:31:11.000Z |  |  |
+
+</details>
+
+### RSCCASummary (0 rows)
+
+### RSCCAWorkStation (7 rows)
+
+WSCode numbers 1-7.
+
+<details>
+<summary>View random sample</summary>
+
+| WSCode |
+| --- |
+| 1 |
+| 5 |
+| 2 |
+| 7 |
+| 4 |
+| 3 |
+| 6 |
+
+</details>
+
+### RSColor (1 row)
+
+One row for color code “IPA”.
+
+<details>
+<summary>View random sample</summary>
+
+| ColorCode | Desc1 | Desc2 |
+| --- | --- | --- |
+| IPA | INDIA PALE ALE | INDIA PALE ALE |
+
+</details>
+
+### RSCommVol (0 rows)
+
+### RSCompanyInfo (1 row)
+
+Contains just contact info for Legacy Liquor.
+
+<details>
+<summary>View random sample</summary>
+
+| Name | Address | City | Province | PostalCode | Country | AreaCode | Phone | Fax | BusinessNumber | LicenseNumber | LicenseCount | LQLicenseNum | StoreNo | AccountNumber | Version | SystemCode | Region | BaseCurrency | ReceiptLogo | OnSceenLogo | ReportLogo | InvoiceLogo | Website | ValidationKey |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Legacy Liquor Store | 1633 Manitoba Street| | Vancouver | British Columbia | V5Y0B8 | Canada | 604 | 6043317900 | 6043317901 |  | 333-838-323-721-867 | 21 |  | 0 |  |  |  |  | CDN | null | null | null | null | www.legacyliquorstore.com | 350-726-054-299-068 |
+
+</details>
+
+### RSCPInvoice (0 rows)
+
+### RSCPInvoiceDetail (0 rows)
+
+### RSCPInvoiceTxnDetail (0 rows)
+
+### RSCPVendor (0 rows)
+
+### RSCUPBatchClose (0 rows)
+
+### RSCUPRequest (0 rows)
+
+### RSCurrency (2 rows)
+
+Lists two currencies, CDN and USD.
+
+<details>
+<summary>View random sample</summary>
+
+| CurrencyCode | Desc1 | Desc2 | ExchangeRate | SellingRateTenderTypeID | CurrencySymbol | DueRDPosition |
+| --- | --- | --- | --- | --- | --- | --- |
+| USD | USD | USD | 1.2000000476837158 | 1 |  | 0 |
+| CDN |  |  | 1 | 0 |  | 0 |
+
+</details>
+
+### RSDailyClose (0 rows)
+
 ### RSDeposit (211 rows)
 
 Some sort of customer transaction data.
@@ -511,6 +1422,58 @@ Some sort of customer transaction data.
 | 30 | 0 | 527272 | 0 | 1176690 | antinori dinner order #449421 | 233.1 | 0 | 233.1 | 0 | 0 | 0 | D | D |
 | 205 | 0 | 413545 | 0 | 1956986 | canceled smws tickets | 100 | 0 | 0 | 0 | 100 | 0 | D | D |
 | 49 | 0 | 528140 | 46 | 1217118 |  | 745 | 0 | 0 | 0 | 0 | 0 | S | P |
+
+</details>
+
+### RSDiscountType (15 rows)
+
+Discount types, one for 100%, one for 10%, rest for 0%.
+
+<details>
+<summary>View random sample</summary>
+
+| DiscountTypeID | Line | Desc1 | Desc2 | Rate | Amount | FixedType | AmountRequired | AfterTax | AccessLevel | EnterReason | GLDept | GLAccount |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 2 | 10% Disc. | 10% Disc. | 10 | 99999 | P | 0 | false | 0 | false |  |  |
+| 8 | 8 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 14 | 14 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 11 | 11 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 13 | 13 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 9 | 9 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 10 | 10 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 6 | 6 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 15 | 15 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 1 | 1 | Discount | Discount | 100 | 99999 | O | 0 | false | 0 | false |  |  |
+| 4 | 4 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+| 7 | 7 |  |  | 0 | 0 | O | 0 | false | 0 | false |  |  |
+
+</details>
+
+### RSEmail (0 rows)
+
+### RSEspGCLog (0 rows)
+
+### RSEvent (62 rows)
+
+Event info containing descriptions, start/end dates.
+
+<details>
+<summary>View random sample</summary>
+
+| EventNumber | Desc1 | Desc2 | StartDate | EndDate | CreateStoreNo | DisallowTenderType |
+| --- | --- | --- | --- | --- | --- | --- |
+| 48 | CELLAR MAY SALE | CELLAR MAY SALE | 2018-05-01T00:00:00.000Z | 2018-05-31T00:00:00.000Z | 0 |  |
+| 57 | Cenote | Cenote | 2018-08-30T00:00:00.000Z | 2018-08-30T00:00:00.000Z | 0 |  |
+| 5 | VCBW-M30 | VCBW-M30 | 2014-05-30T00:00:00.000Z | 2014-05-30T00:00:00.000Z | 0 |  |
+| 63 | Riedel Event | Riedel Event | 2018-10-18T00:00:00.000Z | 2018-10-18T00:00:00.000Z | 0 |  |
+| 14 | Urban Fare VBT | Urban Fare VBT | 2015-02-19T00:00:00.000Z | 2015-02-19T00:00:00.000Z | 0 |  |
+| 58 | WINE CLUB SEPT2018 | WINE CLUB SEPT2018 | 2018-09-01T00:00:00.000Z | 2018-09-30T00:00:00.000Z | 0 |  |
+| 20 | 2 BOTTLE LIMIT | 2 BOTTLE LIMIT | 2016-10-14T00:00:00.000Z | 2016-11-14T00:00:00.000Z | 0 |  |
+| 42 | Chateau de Lamarque | Chateau de Lamarque | 2018-01-25T00:00:00.000Z | 2018-01-25T00:00:00.000Z | 0 |  |
+| 18 | BC CRAFT CANADA DAY | BC CRAFT CANADA DAY | 2016-06-14T00:00:00.000Z | 2016-07-04T00:00:00.000Z | 0 |  |
+| 7 | VCBW-J1 | VCBW-J1 | 2014-06-01T00:00:00.000Z | 2014-06-01T00:00:00.000Z | 0 |  |
+| 44 | Whisky women Rare Dr | Whisky women Rare Dr | 2018-02-15T00:00:00.000Z | 2018-02-15T00:00:00.000Z | 0 |  |
+| 6 | VCBW-M31 | VCBW-M31 | 2014-05-31T00:00:00.000Z | 2014-05-31T00:00:00.000Z | 0 |  |
 
 </details>
 
@@ -537,6 +1500,79 @@ Event day related info, including start/end times.
 | 15 | 3 | -3 |  |  | 2000-01-01T00:00:00.000Z | 2000-01-01T23:59:59.000Z | 2015-09-02T00:00:00.000Z | 2015-09-26T00:00:00.000Z |
 
 </details>
+
+### RSEventHoliday (0 rows)
+
+### RSExpenseType (15 rows)
+
+Expense type IDs from 1-15.
+
+<details>
+<summary>View random sample</summary>
+
+| ExpenseTypeID | Line | Desc1 | Desc2 | GLDept | GLAccount |
+| --- | --- | --- | --- | --- | --- |
+| 9 | 1 |  |  |  |  |
+| 3 | 1 |  |  |  |  |
+| 2 | 1 |  |  |  |  |
+| 11 | 1 |  |  |  |  |
+| 13 | 1 |  |  |  |  |
+| 12 | 1 |  |  |  |  |
+| 15 | 1 |  |  |  |  |
+| 10 | 1 |  |  |  |  |
+| 6 | 1 |  |  |  |  |
+| 14 | 1 |  |  |  |  |
+| 1 | 1 |  |  |  |  |
+| 8 | 1 |  |  |  |  |
+
+</details>
+
+### RSGLChartofAcct (0 rows)
+
+### RSGLDept (1 row)
+
+Only one entry, GLDeptNum 000.
+
+<details>
+<summary>View random sample</summary>
+
+| GLDeptNum | Description |
+| --- | --- |
+| 000 |  |
+
+</details>
+
+### RSGLJournalDay (0 rows)
+
+### RSHCMessage (0 rows)
+
+### RSImExOrderDownloadLog (0 rows)
+
+### RSImExParameter (75 rows)
+
+Some sort of key-value config.
+
+<details>
+<summary>View random sample</summary>
+
+| ParameterName | ParameterValue |
+| --- | --- |
+| CSVImCustFinishedFolder | G:\Profitek\Web Export\Customers\Finished |
+| CSVExSubcategoryFilename | Subcategory.csv |
+| CSVImIsOneOrderPerFile | N |
+| CSVExVin65ExportItemWithInvOnly | N |
+| CSVImAutoImportDataInterval | 10 |
+| CSVImCustUnfinishedFolder | G:\Profitek\Web Export\Customers |
+| CSVExAutoExportModifiedInterval | 10 |
+| CSVExInventoryFilename | inventory.csv |
+| CSVExItemPicture | N |
+| CSVSelWebItemItemAttr1To | Yes |
+| CSVEmNotifyUserIfErrorOccurred | Y |
+| CSVExAutoExportUploadModifedEndTime | 23:00:00 |
+
+</details>
+
+### RSImExTask (0 rows)
 
 ### RSInvAdjustCostDetail (7,346 rows)
 
@@ -658,6 +1694,10 @@ Inventory data, containing record ID, item code, serial number, qty, 'cost', sou
 
 </details>
 
+### RSInventoryCount (0 rows)
+
+### RSInventoryHold (0 rows)
+
 ### RSInventoryTrack (3,568,517 rows)
 
 Seems to track inventory, and contains record ID, item code, 'cost', qty, inv record ID, and other columns.
@@ -682,6 +1722,14 @@ Seems to track inventory, and contains record ID, item code, 'cost', qty, inv re
 
 </details>
 
+### RSInvModExpiryDateLotNumDetail (0 rows)
+
+### RSInvModExpiryDateLotNumHead (0 rows)
+
+### RSInvModSerialStatusDetail (0 rows)
+
+### RSInvModSerialStatusHead (0 rows)
+
 ### RSInvPCCountDetail (47,837 rows)
 
 Not sure what this table contains, but columns are: PCID, post 'index', item code, description, cost and qty, as well as others.
@@ -703,6 +1751,30 @@ Not sure what this table contains, but columns are: PCID, post 'index', item cod
 | 5667 | 1 | 430306 |  |  |  |  | GEHRINGER  PR PINOT NOIR | 000 | INV | 0 | 0 | 9 | 107.95 | 0.9 | C | 2013-06-11T10:05:04.000Z |
 | 5666 | 1 | 282384 |  |  |  |  | MEURSAULT LES CLOUS BOUCHARD PERE & FILS |  |  | 0 | 0 | -7 | -262.47 | 0 | C | 2013-06-11T10:04:57.000Z |
 | 5680 | 1 | 19458 |  |  |  |  | RUSSELL BARREL AGED ROOT BEER MILK STOUT |  |  | 37 | 280.83 | 37 | 0 | 0 | C | 2017-04-12T08:03:11.000Z |
+
+</details>
+
+### RSInvPCHead (37 rows)
+
+Not sure about this table, columns are PCID and others.
+
+<details>
+<summary>View random sample</summary>
+
+| PCID | StoreID | CreateDate | CreateEmployeeID | BaseOnImage | Reference | Status | CompleteDate | CompleteEmployeeID | LockEmployeeID | LockDate | CatCodeFrom | CatCodeTo | SubcatCodeFrom | SubcatCodeTo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5714 | 0 | 2018-10-18T07:15:37.000Z | 1056 | true | Q4 2018 | N | null |  |  | null | 50 | 50 |  | ZZZZ |
+| 5715 | 0 | 2018-10-23T05:26:52.000Z | 1056 | true | Q4 2018 | N | null |  |  | null | 50 | 50 |  | ZZZZ |
+| 5684 | 0 | 2017-04-18T07:36:21.000Z | 1056 | true | COUNTS Q2 | C | 2017-04-27T10:44:54.000Z | 1056 |  | null |  | ZZ | 5065 | 5065 |
+| 5668 | 0 | 2015-10-21T15:57:28.000Z | 1056 | true | 7001 CIGARETTES | C | 2017-04-26T07:49:34.000Z | 11 |  | null |  | ZZ |  | ZZZZ |
+| 5711 | 0 | 2018-10-08T13:40:34.000Z | 1056 | true | AMENDMENT | N | null |  |  | null |  | ZZ | 4070 | 4070 |
+| 5680 | 0 | 2017-04-10T05:59:31.000Z | 1056 | true | COUNTS | N | null |  |  | null | 30 | 30 |  | ZZZZ |
+| 5682 | 0 | 2017-04-17T05:13:58.000Z | 1056 | true | COUNTS Q2 | C | 2017-04-27T09:49:47.000Z | 1056 |  | null |  | ZZ | 4003 | 4080 |
+| 5712 | 0 | 2018-10-10T05:47:19.000Z | 1056 | true | Q4 2018 | N | null |  |  | null | 10 | 10 |  | ZZZZ |
+| 5709 | 0 | 2018-10-03T08:50:42.000Z | 1056 | true | Q4 2018 | C | 2018-10-04T16:56:00.000Z | 1056 |  | null | 40 | 50 |  | ZZZZ |
+| 5713 | 0 | 2018-10-16T09:27:59.000Z | 1056 | true | Q4 2018 | N | null |  |  | null | 30 | 30 |  | ZZZZ |
+| 5704 | 0 | 2018-07-10T14:40:01.000Z | 1056 | true | Q3 COUNTS | N | null |  |  | null |  | ZZ | 5300 | 5391 |
+| 5690 | 0 | 2017-08-09T05:12:34.000Z | 1056 | true | Q3 COUNTS | C | 2018-01-11T16:02:23.000Z | 1056 |  | null | 50 | 50 |  | ZZZZ |
 
 </details>
 
@@ -802,6 +1874,12 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSInvRecMoreDetail (0 rows)
+
+### RSInvSptCmbDetail (0 rows)
+
+### RSInvSptCmbHead (0 rows)
+
 ### RSInvTxfDetail (1,634 rows)
 
 
@@ -823,6 +1901,54 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 | 1827 | 279 | 67447 | N |  | CARIBOO CREAM ALE 6C | CARIBOO CREAM ALE 6C |  | 0 | 0 | 5.99 | 0 | 0 | false | false | false | false | X | X | X | X | 2 |  | 0 | 11.98 | 11.98 | 0 | 11.98 |  | null | Tran | 2011-09-20T00:00:00.000Z | Tran | 2011-09-20T00:00:00.000Z |  |
 | 10 | 18 | 67231 | N |  | JOEL GOTT ZINFANDEL | JOEL GOTT ZINFANDEL |  | 0 | 0 | 19.99 | 19.99 | 0.1 | false | false | false | false | E | E | X | X | 12 | A | 239.88 | 239.88 | 239.88 | 1.2 | 239.88 |  | null | 1056 | 2016-11-10T08:54:15.000Z | 1056 | 2016-11-10T08:54:15.000Z |  |
 | 23 | 118 | 641357 | N |  | FORT BERENS ESTATE RIESLING | FORT BERENS ESTATE RIESLING |  | 0 | 0 | 0 | 0 | 0 | false | false | false | false | X | X | X | X | 12 |  | 0 | 0 | 0 | 0 | 0 |  | null | 1056 | 2017-11-22T11:13:32.000Z | 1056 | 2017-11-22T11:13:32.000Z |  |
+
+</details>
+
+### RSInvTxfDetailMore (0 rows)
+
+### RSInvTxfHead (29 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| TxfId | TxfNumber | TxfType | ParentTxfId | ParentTxfNumber | FrStoreNo | ToStoreNo | CreateStoreNo | EntryDate | InvoiceDate | Remark | TxfStatus | Total | Tax1Rate | Tax2Rate | Tax3Rate | Tax4Rate | ConfirmType | NeedPost | PostStatus | PostMessage | PostTime | InsEmployeeId | InsTime | UpdEmployeeId | UpdTime | ExtraData |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 14 | 0-14 | OU | 0 |  | 0 | 111 | 0 | 2016-11-18T15:29:29.000Z | 2016-11-18T15:29:29.000Z | CORNUCOPIA RON PICK UP | C | 1155.03 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | false |  |  | null | 1056 | 2016-11-18T15:29:29.000Z | 1056 | 2016-11-18T15:29:29.000Z |  |
+| 12 | 0-12 | OU | 0 |  | 0 | 111 | 0 | 2016-11-11T13:46:25.000Z | 2016-11-11T13:46:25.000Z | CORNUCOPIA ADD ON | C | 1798.68 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | false |  |  | null | 1056 | 2016-11-11T13:46:25.000Z | 1056 | 2016-11-11T13:46:25.000Z |  |
+| 5 | 0-5 | TI | 0 |  | 111 | 0 | 0 | 2016-04-11T14:54:03.000Z | 2016-04-11T14:54:03.000Z | West Vancouver Ad | C | 0 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | true | W |  | null | 1056 | 2016-04-11T14:54:03.000Z | 1056 | 2016-04-11T14:54:03.000Z |  |
+| 2 | 0-2 | IN | 0 |  | 111 | 0 | 0 | 2016-01-19T09:19:45.000Z | 2016-01-19T09:19:45.000Z | Return Vancouver Whisky Fest | C | 15596.39 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | false |  |  | null | 44 | 2016-01-19T09:16:39.000Z | 44 | 2016-01-19T09:19:45.000Z |  |
+| 21 | 0-21 | OU | 0 |  | 0 | 111 | 0 | 2017-11-09T09:17:25.000Z | 2017-11-09T09:17:25.000Z | CORNUCOPIA 2017 | C | 506.99 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | true | W |  | null | 1056 | 2017-11-09T09:17:25.000Z | 1056 | 2017-11-09T09:17:25.000Z |  |
+| 4 | 0-4 | TI | 0 |  | 111 | 0 | 0 | 2016-04-11T14:45:04.000Z | 2016-04-11T14:45:04.000Z | WEST VANCOUVER AD | C | 0 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | true | W |  | null | 1056 | 2016-04-11T14:45:04.000Z | 1056 | 2016-04-11T14:45:04.000Z |  |
+| 16 | 0-16 | IN | 0 |  | 111 | 0 | 0 | 2016-11-24T21:00:28.000Z | 2016-11-24T21:00:28.000Z | CORNUCOPIA REVERSAL | C | 2074.82 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | false |  |  | null | 1056 | 2016-11-24T21:00:28.000Z | 1056 | 2016-11-24T21:00:28.000Z |  |
+| 6 | 0-6 | IN | 0 |  | 111 | 0 | 0 | 2016-04-11T15:59:03.000Z | 2016-04-11T15:59:03.000Z | WEST VANCOUVER AD | C | 245.8 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | false |  |  | null | 1056 | 2016-04-11T15:59:03.000Z | 1056 | 2016-04-11T15:59:03.000Z |  |
+| 22 | 0-22 | TI | 0 |  | 111 | 0 | 0 | 2017-11-09T09:18:16.000Z | 2017-11-09T09:18:16.000Z | CORNUCOPIA NOT SENT | C | 0 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | true | W |  | null | 1056 | 2017-11-09T09:18:16.000Z | 1056 | 2017-11-09T09:18:16.000Z |  |
+| 27 | 0-27 | TI | 0 |  | 111 | 0 | 0 | 2018-08-22T14:28:29.000Z | 2018-08-22T14:28:29.000Z |  | C | 0 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | true | W |  | null | 1056 | 2018-08-22T14:28:29.000Z | 1056 | 2018-08-22T14:28:29.000Z |  |
+| 8 | 0-8 | IN | 0 |  | 111 | 0 | 0 | 2016-05-20T14:31:59.000Z | 2016-05-20T14:31:59.000Z | CROWN ROYAL NORTHERN HARVEST | C | 619.3 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | false |  |  | null | 1056 | 2016-05-20T14:31:59.000Z | 1056 | 2016-05-20T14:31:59.000Z |  |
+| 19 | 0-19 | IN | 0 |  | 111 | 0 | 0 | 2016-11-24T21:04:34.000Z | 2016-11-24T21:04:34.000Z | CORNUCOPIA REVERSAL | C | 1212.18 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 |  | false |  |  | null | 1056 | 2016-11-24T21:04:34.000Z | 1056 | 2016-11-24T21:04:34.000Z |  |
+
+</details>
+
+### RSInvTxfHeadMisc (10 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| TxfId | TxfHeadMiscLine | MiscType | MiscName | Amount | NetAmount | Remark | InsEmployeeId | InsTime | UpdEmployeeId | UpdTime | ExtraData |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 15 | 1 | TG | Tax | 2175.11 | 2175.11 |  | 1056 | 2016-11-24T20:54:28.000Z | 1056 | 2016-11-24T20:54:28.000Z |  |
+| 18 | 1 | TG | Tax | 96.73 | 96.73 |  | 1056 | 2016-11-24T21:02:53.000Z | 1056 | 2016-11-24T21:02:53.000Z |  |
+| 17 | 1 | TG | Tax | 89.55 | 89.55 |  | 1056 | 2016-11-24T21:01:51.000Z | 1056 | 2016-11-24T21:01:51.000Z |  |
+| 28 | 1 | TG | Tax | 660.15 | 660.15 |  | 1056 | 2018-08-22T14:43:27.000Z | 1056 | 2018-08-22T14:43:27.000Z |  |
+| 16 | 1 | TG | Tax | 98.69 | 98.69 |  | 1056 | 2016-11-24T21:00:28.000Z | 1056 | 2016-11-24T21:00:28.000Z |  |
+| 7 | 1 | TG | Tax | 24.48 | 24.48 |  | 1056 | 2016-05-04T11:09:01.000Z | 1056 | 2016-05-04T11:09:01.000Z |  |
+| 24 | 1 | TG | Tax | 1859.37 | 1859.37 |  | 1056 | 2017-11-22T11:17:49.000Z | 1056 | 2017-11-22T11:17:49.000Z |  |
+| 9 | 1 | TG | Tax | 18.36 | 18.36 |  | 1056 | 2016-06-08T15:03:33.000Z | 1056 | 2016-06-08T15:03:33.000Z |  |
+| 8 | 1 | TG | Tax | 29.38 | 29.38 |  | 1056 | 2016-05-20T14:31:59.000Z | 1056 | 2016-05-20T14:31:59.000Z |  |
+| 19 | 1 | TG | Tax | 57.15 | 57.15 |  | 1056 | 2016-11-24T21:04:34.000Z | 1056 | 2016-11-24T21:04:34.000Z |  |
 
 </details>
 
@@ -922,6 +2048,22 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSItemFinishedProduct (2 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ItemCode | ComponentItemCode | Qty |
+| --- | --- | --- |
+| SAMPLERCLUB | 193409 | 1 |
+| SAMPLERCLUB | 150433 | 1 |
+
+</details>
+
+### RSItemListTypeChange (0 rows)
+
 ### RSItemMergeLog (1,748 rows)
 
 
@@ -994,6 +2136,8 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSItemRegion (0 rows)
+
 ### RSItemsAttrib (241 rows)
 
 
@@ -1015,6 +2159,27 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 | BENCH 1775 | false | false | true | false | BENCH 1775 WINERY | BENCH 1775 WINERY |
 | 750ML | true | false | false | false | 750ML | 750ML |
 | SL12 | false | true | false | false | Spirits Lounge 12 | Spirits Lounge 12 |
+
+</details>
+
+### RSItemSizeColor (0 rows)
+
+### RSItemSizeColorPic (0 rows)
+
+### RSItemSizeWidth (0 rows)
+
+### RSItemStatus (3 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ItemStatusCode | ItemStatusDesc1 | ItemStatusDesc2 |
+| --- | --- | --- |
+| *H | Hold | Hold |
+| *S | Sold | Sold |
+| *N | On Hand | On Hand |
 
 </details>
 
@@ -1042,6 +2207,30 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSItemsWebAttrib (16 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| AttrId | AttrName | Enabled | OrderIndex | DataType | DataTypeExtra | InputType |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 | Executive Category | true | 0 |  |  |  |
+| 8 | Country | true | 0 |  |  |  |
+| 11 | Event Date/Time | true | 0 |  |  |  |
+| 15 | Private Event | true | 0 |  |  |  |
+| 3 | Main Category | true | 0 |  |  |  |
+| 2 | Stock Holdback | true | 0 |  |  |  |
+| 10 | Subcategory | true | 0 |  |  |  |
+| 7 | Sales Category | true | 0 |  |  |  |
+| 16 |  | false | 0 |  |  |  |
+| 14 | Volume | true | 0 |  |  |  |
+| 1 | Web Active | true | 0 |  |  |  |
+| 9 | Region | true | 0 |  |  |  |
+
+</details>
+
 ### RSItemsWebAttribDefValue (213 rows)
 
 
@@ -1066,6 +2255,10 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSItemTicket (0 rows)
+
+### RSItemUpdateLog (0 rows)
+
 ### RSItemVendor (22,393 rows)
 
 
@@ -1089,6 +2282,8 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 | LDB | 11932 | 14.5 | 14.17 |  | 6PK4 | 1 | 4 | true | null | 14.5 | 45637 |
 
 </details>
+
+### RSItemVendorRegion (0 rows)
 
 ### RSKitItem (112 rows)
 
@@ -1138,6 +2333,118 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSLayDetail (0 rows)
+
+### RSLayHeader (0 rows)
+
+### RSLayShip (0 rows)
+
+### RSLinkItem (12 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| LinkItemCode | Line | ItemCode | SizeCode | ColorCode | WidthCode | LinkType | LinkQty | LinkQtyType | FixedAmount |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| JERRYBOX1 | 1 | ED200 |  |  |  | F | 1 | N | 0 |
+| 415679 | 1 | D10 |  |  |  | F | 1 | N | 0 |
+| 169571 | 1 | D10 |  |  |  | F | 1 | N | 0 |
+| 899955 | 1 | D10 |  |  |  | F | 1 | N | 0 |
+| ICETUB | 1 | ED15 |  |  |  | F | 1 | N | 0 |
+| 747519 | 1 | D10 |  |  |  | F | 1 | N | 0 |
+| JEERYBOX2 | 1 | ED200 |  |  |  | F | 1 | N | 0 |
+| 439521 | 1 | D10 |  |  |  | F | 1 | N | 0 |
+| HANDPUMP2 | 1 | ED60 |  |  |  | F | 1 | N | 0 |
+| JERRYBOX3 | 1 | ED200 |  |  |  | F | 1 | N | 0 |
+| 353987 | 1 | D10 |  |  |  | F | 1 | N | 0 |
+| HANDPUMP | 1 | ED60 |  |  |  | F | 1 | N | 0 |
+
+</details>
+
+### RSLockTable (2 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| TableFullName | IsLocked | LockTime |
+| --- | --- | --- |
+| RSInventory | false | 2018-10-27T23:06:00.000Z |
+| RSSales | true | 2018-10-27T23:17:11.000Z |
+
+</details>
+
+### RSMainButtons (12 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| Name | Text | Visible |
+| --- | --- | --- |
+| c_btnLogout | Logout ^F11 | false |
+| c_btnOrderPricing | Order Pricing ^F6 | false |
+| c_btnF8 | Cashier Close ^F9 | true |
+| c_btnF6 | Display/Void ^F7 | true |
+| c_btnF2 | Payment ^F2 | true |
+| c_btnF7 | Daily Total ^F8 | true |
+| c_btnF3 | Layaway ^F3 | false |
+| c_btnF1 | Sale/Refund ^F1 | true |
+| c_btnF10 | Exit ^F12 | true |
+| c_btnF4 | Tax Adj ^F4 | false |
+| c_btnF9 | Daily Close ^F10 | true |
+| c_btnF5 | Expense ^F5 | false |
+
+</details>
+
+### RSNextID (35 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| IDName | MinValue | Increment | MaxValue | IDValue | Locked | LockTime |
+| --- | --- | --- | --- | --- | --- | --- |
+| RSInvModExpiryDateLotNumHead_AuditID | 1 | 1 | 999999999 | 1 |  | null |
+| RSInvAdjustCostHead_AuditID | 1 | 1 | 999999999 | 1295 |  | null |
+| RSSpiff_RecordID | 1 | 1 | 999999999 | 1 |  | null |
+| RSInventoryTrack_RecordID | 1 | 1 | 999999999 | 3584248 |  | null |
+| RSSplitItem_SplitId | 1 | 1 | 999999999 | 13 |  | null |
+| RSInvAdjustCostDetail_Line | 1 | 1 | 999999999 | 1 |  | null |
+| RSAWItemPointsExempt_RecordID | 1 | 1 | 999999999 | 16 |  | null |
+| RSCCACreditRequest_CCACreditRequestID | 1 | 1 | 999999999 | 1138400 |  | null |
+| RSCashPickup_PickupID | 1 | 1 | 999999999 | 1 |  | null |
+| NextPackTxnID | 1 | 1 | 999999999 | 470132 |  | null |
+| RSGLJournalDay_JournalId | 1 | 2 | 999999999 | 348445 |  | null |
+| RSItemStockLevel_RecordID | 1 | 1 | 999999999 | 111807 |  | null |
+
+</details>
+
+### RSNextIDDelPool (0 rows)
+
+### RSOEAllocateExcept (0 rows)
+
+### RSOETxnDetail (0 rows)
+
+### RSOETxnDetailMore (0 rows)
+
+### RSOETxnHeader (0 rows)
+
+### RSOETxnShip (0 rows)
+
+### RSOpenDrawerLog (0 rows)
+
+### RSOrderTrack (0 rows)
+
+### RSOthTxnCheck (0 rows)
+
+### RSOthTxnCheckDetail (0 rows)
+
 ### RSParameter (517 rows)
 
 
@@ -1162,6 +2469,111 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSPKCOrderDetail (0 rows)
+
+### RSPKCOrderHeader (0 rows)
+
+### RSPKCOrderTxf (0 rows)
+
+### RSPKCPickupDetail (0 rows)
+
+### RSPKCPickupHeader (0 rows)
+
+### RSPKCRefundOrder (0 rows)
+
+### RSPriceMap (10 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| PriceType | Rate | Amount | BasePriceType | Desc1 | Desc2 | RoundingType | RoundingFormat |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| M | 1.2000000476837158 | 0 | L | Minimum | Minimum | 1 | .05 |
+| 2 | 1.3600000143051147 | 0 | L | LDB | LDB | 3 | .09 |
+| 7 | 1.3300000429153442 | 0 | L | INDUSTRY | INDUSTRY | 3 | .05 |
+| 5 | 1.2899999618530273 | 0 | L | AGENT | AGENT | 3 | .05 |
+| 3 | 0.8700000047683716 | 0 | 1 | TAX OUT |  | 0 |  |
+| 8 | 0.8799999952316284 | 0 | 1 | GEG | GEG | 1 | .05 |
+| 6 | 0 | 0 | 0 | OFFSITE | OFFSITE | 0 |  |
+| 9 | 0.8999999761581421 | 0 | 1 | CAMRA | CAMRA | 1 | .05 |
+| 4 | 1.2300000190734863 | 0 | L | STAFF | STAFF | 0 |  |
+| 1 | 1.0099999904632568 | 0 | 0 | Regular | Regular |  |  |
+
+</details>
+
+### RSPrintForm (92 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| PrintFormID | Description | Device | Form | ReportFormat | LeftMargin | RightMargin | TopMargin | BottomMargin |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 86 |  | HP LaserJet P3011/P3015 PCL6 |  |  | 0 | 0 | 0 | 0 |
+| 43 |  |  | 0 |  | 0 | 0 | 0 | 0 |
+| 81 |  | Brother MFC-L9550CDW Printer (Copy 1) | 3 |  | 0 | 0 | 0 | 0 |
+| 44 |  |  |  |  | 0 | 0 | 0 | 0 |
+| 38 |  | Brother MFC-L9550CDW Printer (Copy 1) | 0 |  | 0 | 0 | 0 | 1 |
+| 67 |  | XP-850 Series(Network) | 3 |  | 0 | 0 | 0 | 0 |
+| 76 |  | Receipt |  |  | 0 | 0 | 0 | 0 |
+| 66 |  | XP-850 Series(Network) |  |  | 0 | 0 | 0 | 0 |
+| 24 |  | Brother MFC-9840CDW | 0 |  | 0 | 0 | 0 | 1 |
+| 88 |  | HP LaserJet P3011/P3015 PCL6 |  |  | 0 | 0 | 0 | 0 |
+| 60 |  | Brother MFC-L9550CDW Printer (Copy 1) |  |  | 0 | 0 | 0 | 0 |
+| 87 |  | HP LaserJet P3011/P3015 PCL6 | 3 |  | 0 | 0 | 0 | 0 |
+
+</details>
+
+### RSReason (1 row)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ReasonCode | Refundable | Taxable | Discountable | Desc1 | Desc2 | ReasonType |
+| --- | --- | --- | --- | --- | --- | --- |
+| 01 | true | false | true | Chipped | Chipped |  |
+
+</details>
+
+### RSRegion (0 rows)
+
+### RSRoyalDetail (0 rows)
+
+### RSRoyalFee (0 rows)
+
+### RSRoyalHeader (0 rows)
+
+### RSSalesButtons (19 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| Name | Preset | Text | Sort |
+| --- | --- | --- | --- |
+| c_btnQty |  | Qty F5 | 1 |
+| c_btnInsert |  | Insert F11 | 17 |
+| c_btnMemo |  | Memo^F1 | 6 |
+| c_btnReprint |  | Reprint^F8 | 10 |
+| c_btnLock |  | Lock F4 | 0 |
+| c_btnItemList |  | ItemList F3 | 8 |
+| c_btnRefund |  | Refund^E | 14 |
+| c_btnDisc |  | Disc F7 | 3 |
+| c_btnCustList |  | CustList F2 | 7 |
+| c_btnTxnRefund |  | Txn    Refund^F6 | 13 |
+| c_btnKit |  | Kit^F9 | 11 |
+| c_btnPrice |  | Price F6 | 2 |
+
+</details>
+
+### RSSalesCommission (0 rows)
+
 ### RSSecGroupFns (1,620 rows)
 
 
@@ -1183,6 +2595,22 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 | 001001 | CR_Feature_DropoffPickup | true |
 | 001003 | CR_Feature_CustomerTypeLevel4 | true |
 | 001001 | RSW_Item_AddNewItem | false |
+
+</details>
+
+### RSSecGroups (4 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| GroupID | GroupName | Status | IsDefault |
+| --- | --- | --- | --- |
+| 001003 | Managers | 1 | 1 |
+| 001004 | Administrators | 1 | 1 |
+| 001001 | Cashiers | 1 | 1 |
+| 001002 | Supervisors | 1 | 1 |
 
 </details>
 
@@ -1210,6 +2638,30 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSSecSystemFnGroups (18 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| AppSystemFnGroupID | AppSystemID | SortIndex | Detail |
+| --- | --- | --- | --- |
+| C01 | C | 1 | Feature |
+| R00 | R | 0 | Item |
+| R07 | R | 7 | Award |
+| P01 | P | 1 | PO Housekeeping |
+| R08 | R | 8 | Buyer Program |
+| P00 | P | 0 | Purchase Order |
+| C00 | C | 0 | Windows |
+| E00 | E | 0 | MainForm |
+| K00 | K | 0 | Feature |
+| R09 | R | 9 | System |
+| H00 | H | 0 | Function |
+| R02 | R | 2 | Customer |
+
+</details>
+
 ### RSSecSystemFns (405 rows)
 
 
@@ -1233,6 +2685,158 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 | CR_Feature_CustomerTypeLevel14 | C | C01 | 15 | Customer Type Level 14 |
 
 </details>
+
+### RSSecSystems (6 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| AppSystemID | SortIndex | Detail |
+| --- | --- | --- |
+| R | 0 | RS Back Office |
+| P | 2 | Purchase Order |
+| C | 1 | Cash Register |
+| K | 5 | Pickup System |
+| E | 3 | Order Entry |
+| H | 4 | Host Control |
+
+</details>
+
+### RSSerialNumberChangeLog (0 rows)
+
+### RSShift (0 rows)
+
+### RSShipMethod (4 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ShipMethodCode | Desc1 | Desc2 |
+| --- | --- | --- |
+| CP | Canada Post | Canada Post |
+| KH | K & H Dispatch | K & H Dispatch |
+| NO | Novex | Novex |
+| WI | WYNGIT | WYNGIT |
+
+</details>
+
+### RSSizeMatrix (0 rows)
+
+### RSSizeMatrixDetail (0 rows)
+
+### RSSpiff (0 rows)
+
+### RSSplitItem (7 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| SplitId | ItemCode | ItemSize | ItemColor | ItemWidth | ItemQty | SplitItemCode | SplitItemSize | SplitItemColor | SplitItemWidth | SplitQty | SeqNum |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 33175 |  |  |  | 1 | 33175SC |  |  |  | 4 | 5 |
+| 8 | 463836 |  |  |  | 1 | 463836SB |  |  |  | 12 | 8 |
+| 2 | 1038893 |  |  |  | 1 | 1038893SJ |  |  |  | 12 | 2 |
+| 4 | 3020847 |  |  |  | 1 | 3020847SB |  |  |  | 12 | 4 |
+| 3 | 1114080 |  |  |  | 1 | 1114080SB |  |  |  | 24 | 3 |
+| 9 | 563601 |  |  |  | 1 | 563601SC |  |  |  | 6 | 9 |
+| 12 | 676767 |  |  |  | 1 | 676767SC |  |  |  | 4 | 12 |
+
+</details>
+
+### RSSSBillCoupon (1 row)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| EventNumber | CustType | BeginAmount | DiscountRate | LastUpdate | CouponType | CouponAmount |
+| --- | --- | --- | --- | --- | --- | --- |
+| 55 | CP | 0.01 | 0.05000000074505806 | 2018-07-12T14:58:04.000Z |  | 0 |
+
+</details>
+
+### RSSSBillDiscount (0 rows)
+
+### RSSSBillSpecialPrice (0 rows)
+
+### RSSSCoupon (0 rows)
+
+### RSSSCouponItem (0 rows)
+
+### RSSSCumuQtyDisc (0 rows)
+
+### RSSSCumuQtyDiscItem (0 rows)
+
+### RSSSCumuQtyDiscJoin (0 rows)
+
+### RSSSCumuQtyDiscJoinDetail (0 rows)
+
+### RSSSCustomerSpecial (0 rows)
+
+### RSSSCustomerSpecialMarkup (0 rows)
+
+### RSSSDiscount (61 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| EventNumber | CustType | CatCode | SubcatCode | ItemCode | DiscountType | Line | BeginAmount | IsSum | DiscountRate | DiscountAmount | LastUpdate |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 58 | WC |  |  | 39768 | A | 0 | 0 | false | 0 | 3 | 2018-08-30T21:23:37.000Z |
+| 51 | WC |  |  | 928192 | A | 0 | 0 | false | 0 | 4.03 | 2018-05-18T17:17:44.000Z |
+| 4 |  |  |  | 37531 | A | 0 | 0 | false | 0 | 2 | 2018-07-13T12:32:45.000Z |
+| 14 |  |  |  | 304188 | A | 0 | 0 | false | 0 | 11 | 2015-02-19T12:38:59.000Z |
+| 54 | WC |  |  | 297895 | A | 0 | 0 | false | 0 | 4 | 2018-07-12T14:20:07.000Z |
+| 14 |  |  |  | 362046 | A | 0 | 0 | false | 0 | 9.25 | 2015-02-19T12:40:32.000Z |
+| 17 |  |  |  | 516757 | P | 0 | 0 | false | 0.05000000074505806 | 0 | 2016-03-22T17:09:33.000Z |
+| 14 |  |  |  | 584581 | A | 0 | 0 | false | 0 | 1.6 | 2015-02-19T12:41:21.000Z |
+| 58 | WC |  |  | 233513 | A | 0 | 0 | false | 0 | 4 | 2018-08-30T21:23:33.000Z |
+| 58 | WC |  |  | 297895 | A | 0 | 0 | false | 0 | 4 | 2018-08-30T21:23:44.000Z |
+| 61 | WC |  |  | 121395 | A | 0 | 0 | false | 0 | 5 | 2018-09-29T16:44:12.000Z |
+| 51 | WC |  |  | 785766 | A | 0 | 0 | false | 0 | 5.08 | 2018-05-18T17:12:58.000Z |
+
+</details>
+
+### RSSSMixMatch (2 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| EventNumber | CustType | GroupID | Priority | BatchID | Qty | PriceType | DiscountRate | Price | CatCode | SubcatCode | ItemCode | LastUpdate |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  | MAY LONG PROMO | 9 | 1 | 12 | P | 0.05000000074505806 | 0 |  |  | 52132 | 2017-05-19T11:19:43.000Z |
+| 1 |  | MAY LONG PROMO | 9 | 1 | 12 | P | 0.05000000074505806 | 0 |  |  | 227868 | 2017-05-19T11:19:43.000Z |
+
+</details>
+
+### RSSSPriceBreak (4 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| EventNumber | CustType | CatCode | SubcatCode | ItemCode | Line | PriceBreakType | PriceType | Qty | DiscountRate | Price | LastUpdate |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  | 659524 | 1 | N | A | 24 | 0 | 98.52 | 2013-06-11T09:51:53.397Z |
+| 1 |  |  |  | BS001 | 1 | Y | A | 6 | 0 | 11 | 2013-06-11T09:51:53.397Z |
+| 19 | CP |  |  | 992339 | 1 | N | P | 36 | 0.05000000074505806 | 0 | 2016-07-12T19:02:57.000Z |
+| 1 | WC |  |  | 252593 | 1 | N | P | 3 | 0.15000000596046448 | 0 | 2018-07-09T11:55:48.000Z |
+
+</details>
+
+### RSSSPurchaseLimit (0 rows)
 
 ### RSSSSpecialPrice (288 rows)
 
@@ -1258,6 +2862,67 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSSSTopNQtySpecial (0 rows)
+
+### RSSTMainBarFnButton (0 rows)
+
+### RSSTMoreFnButton (0 rows)
+
+### RSStore (3 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| StoreNo | StoreName | PriceLevel | Markup | Tax1 | Tax2 | Tax3 | Tax4 | CustStore | CustomerID | VendorNum | RegionNo | HideForHCInquiry |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 111 | Offsite | C | 0 | false | false | false | false | 0 | 0 |  | 0 | null |
+| 888 | Infospec | C | 0 | false | false | false | false | 0 | 0 |  | 0 | null |
+| 0 | Head Office | C | 0 | false | false | false | false | 0 | 0 |  | 0 | null |
+
+</details>
+
+### RSSTSalesButtonLayout (37 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ButtonId | ButtonType | ButtonCaption | RowIndex | ColIndex | StyleData | ValueData |
+| --- | --- | --- | --- | --- | --- | --- |
+| c_btnDesc | M | Descrip | 1 | 4 | BACKCOLOR=-5658199|SPL|FORECOLOR=-16776961|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnPickup | M | Pickup | 3 | 2 | BACKCOLOR=-5658199|SPL|FORECOLOR=-8388480|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnTxnInclTax | M | Txn Incl   Tax | 1 | 1 | BACKCOLOR=-5658199|SPL|FORECOLOR=-8388480|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnTax | T | Tax | 0 | 3 | BACKCOLOR=-5658199|SPL|FORECOLOR=-65536|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnRecall | T | Recall | 0 | 4 | BACKCOLOR=-5658199|SPL|FORECOLOR=-16776961|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnRefund | T | Refund | 0 | 7 | BACKCOLOR=-5658199|SPL|FORECOLOR=-65536|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnInclTax | M | Incl Tax | 1 | 0 | BACKCOLOR=-5658199|SPL|FORECOLOR=-8388480|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnChangeCustomer | M | Switch   Cust | 2 | 2 | BACKCOLOR=-5658199|SPL|FORECOLOR=-65536|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnCashPickup | M | Cash   Pickup | 3 | 0 | BACKCOLOR=-5658199|SPL|FORECOLOR=-16744448|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnDisc | T | Disc | 0 | 2 | BACKCOLOR=-5658199|SPL|FORECOLOR=-65536|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnChangeCustType | M | Switch   Cust Type | 2 | 3 | BACKCOLOR=-5658199|SPL|FORECOLOR=-65536|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| c_btnHelp | M | Help | 5 | 0 | BACKCOLOR=-5658199|SPL|FORECOLOR=-16744448|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+
+</details>
+
+### RSSTSalesMenuLayout (2 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| SalesMenuId | RowIndex | ColIndex | MenuCode | MenuName | MenuType | ParentSalesMenuId | StyleData | ValueData |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 0 | 0 | 20ST002 | EVENT - 20SOMETHING THEATRE RUM CLUB | I | 1 | BACKCOLOR=-5658199|SPL|FORECOLOR=-16777216|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+| 1 | 0 | 1 |  | Tickets | C | 0 | BACKCOLOR=-5658199|SPL|FORECOLOR=-16777216|SPL|BACKCOLOR2=-1|SPL|BORDERCOLOR=-9868951|SPL|GRADIENTMODE=1|SPL| |  |
+
+</details>
+
+### RSSTTenderBarFnButton (0 rows)
+
 ### RSSubcategory (138 rows)
 
 
@@ -1279,6 +2944,63 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 | 9005 | 90 | MISCELLANEOUS | MISCELLANEOUS | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  | true | false | true | false | true | false | true | false | 0 | 0 | false |
 | 4003 | 40 | BC CRAFT | BC CRAFT | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  | true | true | false | false | true | true | false | false | 0 | 33 | false |
 | 5390 | 50 | CELLAR-RED-USA | CELLAR RED USA | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  | true | true | false | false | true | true | false | false | 0 | 0 | false |
+
+</details>
+
+### RSTax (4 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| TaxID | Desc1 | Desc2 | TaxNumber | TaxRate | MinAmount | MaxAmount | GLDept | GLAccount | DefaultTaxable | DefaultPriceIncTax | ReceivingTaxable |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | +GST | +GST |  | 5 | 0 | 0 |  |  | true | false | false |
+| 2 | LIQUOR | LIQUOR |  | 10 | 0 | 0 |  |  | true | true | false |
+| 1 | GST | GST | 862287596 | 5 | 0 | 0 |  |  | true | true | true |
+| 3 | PST | PST | 1001-7187 | 7 | 0 | 0 |  |  | true | true | false |
+
+</details>
+
+### RSTaxArea (0 rows)
+
+### RSTenderType (25 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| TenderTypeID | Line | Desc1 | Desc2 | EnterReference | Interface | ChangeType | ExchangeRate | PopDrawer | GLDept | GLAccount | BankDeposit | AccessLevel | Active | ChangeUnit | AwardDisable | IsChange |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12 | 0 | Off Site CC | Off Site CC | false | N | N | 1 | Y |  |  | true | 0 | true | 0.01 | false | null |
+| 3 | 0 | Visa | Visa | false | C | N | 1 | Y |  |  | false | 0 | true | 0.01 | false | false |
+| 13 | 0 | CHEQUE | CHEQUE | false | N | N | 1 | Y |  |  | true | 0 | true | 0.01 | false | null |
+| 17 | 0 | UnionPay | UnionPay | true | N | N | 1 | N |  |  | true | 0 | true | 0.01 | false | false |
+| 1 | 0 | Cash | Cash | false | N | C | 1 | Y |  |  | false | 0 | true | 0.05 | false | false |
+| 16 | 0 | PAYPAL | PAYPAL | true | N | C | 1 | N |  |  | true | 0 | true | 0.01 | false | null |
+| 21 | 21 |  |  | false | O | C | 1 | Y |  |  | false | 0 | true | 0 | false | null |
+| 6 | 0 | Debit | Debit | false | D | N | 1 | Y |  |  | false | 0 | true | 0.01 | false | null |
+| 18 | 0 | WeChat / AliPay | WECHAT / ALIPAY | true | N | C | 1 | Y |  |  | false | 0 | true | 0.01 | false | false |
+| 7 | 0 | Gift Card | Gift Card | false | G | N | 1 | Y |  |  | false | 0 | true | 0.01 | false | null |
+| 23 | 0 | Unclassified | Unclassified | false | N | C | 1 | N | 000 | 7310 | false | 0 | true | 0.01 | false | null |
+| 11 | 0 | US Cash | US Cash | false | N | C | 1.2000000476837158 | Y |  |  | true | 0 | true | 0.01 | false | false |
+
+</details>
+
+### RSTerms (3 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| TermsID | Desc1 | Desc2 | Extra |
+| --- | --- | --- | --- |
+| 30 | Pricing is subject to change seven days past date of quotation.  Returns more than 50% of original purchase price could be subject to 10% restocking fee. | Pricing is subject to change seven days past date of quotation.  Returns more than 50% of original purchase price could be subject to 10% restocking fee. |  |
+| 10 | Thank You! Please come again.  Proof of purchase required for all refunds or exchanges.  No exchange or refund past 14 days of purchase.  Returns more than 50% of original purchase price could be subject to 10% restocking fee.  Valid ID must be shown to redeem account points.     | Thank You! Please come again.  Proof of purchase required for all refunds or exchanges.  No exchange or refund past 14 days of purchase.  Returns more than 50% of original purchase price could be subject to 10% restocking fee.  Valid ID must be shown to redeem account points.   |  |
+| 20 | Deposit is non-refundable.   | Deposit is non-refundable.   | Deposit is non-refundable.   |
 
 </details>
 
@@ -1306,6 +3028,16 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSTxnDetailDelLog (0 rows)
+
+### RSTxnDetailForeign (0 rows)
+
+### RSTxnDetailInventory (0 rows)
+
+### RSTxnDiscount (0 rows)
+
+### RSTxnExpenseDtl (0 rows)
+
 ### RSTxnHeader (490 rows)
 
 
@@ -1329,6 +3061,62 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 | -469358 | 0 | S | 2018-09-21T14:20:51.000Z | 0 | 112739 |  | 0 | DL |  | 3.2 | 3.1 | 2.7 | 0 | 0 | 0.1 | 0 | 0 | 0 | 0 | 0 | 0.13 | 0.27 | 0 | 0 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 | CDN | 1 | P | 6 | 6 | 0 |  |  |  | 0 | 0 |  | CASH |  |  | null | 0 |  |
 
 </details>
+
+### RSTxnHeaderForeign (0 rows)
+
+### RSTxnPayment (0 rows)
+
+### RSTxnReason (29 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| TxnID | Line | ReasonType | ReasonDescript |
+| --- | --- | --- | --- |
+| -469892 | 8 | R | swap                 |
+| -468082 | 1 | R | equipment return     |
+| -466811 | 3 | R | Not reqd             |
+| -466811 | 1 | R | Not reqd             |
+| -470012 | 1 | R | unused               |
+| -469503 | 1 | R | rep mistake          |
+| -469892 | 1 | R | swap                 |
+| -469892 | 5 | R | swap                 |
+| -470012 | 2 | R | unused               |
+| -468166 | 1 | R | no stock             |
+| -469892 | 12 | R | swap                 |
+| -469287 | 3 | R | PRICE ADJ            |
+
+</details>
+
+### RSTxnShipping (15 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| TxnID | ShipName | ShipAddress | ShipMethodCode | ShipPostalCode | ShipPhone | ShipInstruction |
+| --- | --- | --- | --- | --- | --- | --- |
+| -466187 | The Callisto | 1281 W. Cordova Street, 401|Vancouver, B.C.| | KH | V6C3R3 |  | concierge |
+| -468411 | INSTORE PICKUP BY MIKE @ | 604-260-3037|| |  |  |  |  |
+| -466924 | Fayuca | 1009 Hamilton Street|Vancouver, B.C.| |  | V6B5T4 | 6046898523 |  |
+| -462074 | 1 | || |  |  |  |  |
+| -469808 | Sonya Black, c/o Davidson & Company | 10/F & 12/F, 609 Granville Street|Vancouver, B.C.| |  | V7Y1G6 | 6046870947 |  |
+| -469631 | Tacorporation | La Mezcaleria|1622 Commercial Drive|Vancouver, BC |  | V5L3Y4 | 6045598226 |  |
+| -466793 | ON HOLD UNTIL END OF WEEK, JUNE 3 | || |  |  |  |  |
+| -469890 | Dave Sferra Order - Dec 1 | || |  |  |  |  |
+| -470089 | Congregation Schara Tzedeck | 3476 Oak St|Vancouver, B.C.| |  | V6H2K6 | 6047367607 |  |
+| -466771 | Daniel Dae-Kim | 8820 Northbrook Court|Burnaby, BC| |  | V5J5J1 |  |  |
+| -464299 | INDUSTRY TASTING | || |  |  |  |  |
+| -467556 | The Dirty Apron Cooking School | 540 Beatty Street|Vancouver, B.C.| |  | V6B2L3 | 6048798588 |  |
+
+</details>
+
+### RSTxnTender (0 rows)
+
+### RSTxnTenderForeign (0 rows)
 
 ### RSUserDrawer (1,793 rows)
 
@@ -1354,9 +3142,59 @@ audit ID, line, item code, item description, unit code, qty, cost, 'local' cost,
 
 </details>
 
+### RSUserProfile (16 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| EmployeeID | ParameterName | ParameterValue |
+| --- | --- | --- |
+| 9890 | SkinStyle | 0 |
+| CASH | SkinStyle | 0 |
+| JEFF | BOFontSize | 10 |
+| 9890 | BOFontSize | 10 |
+| JEFF | BOFontName | Arial |
+| JEFF | SkinStyle | 0 |
+| 1056 | Language | en |
+| CASH | CRFontSize | 11.25 |
+| 1056 | SkinStyle | 0 |
+| 9890 | Language | en |
+| JEFF | Language | en |
+| CASH | Language | en |
+
+</details>
+
+### RSWidth (0 rows)
+
+### RSWorkstation (23 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| WSCode | Description | DeptCode | ReceiptPrinter | OrderPrinter | InvoicePrintFormID | OrderPrintFormID | StatementPrintFormID | ReportPrintFormID | LabelPrintFormID | PrintInvoice | DisplayPoleType | DisplayPolePort | DisplayPoleDescType | ScalePort | PINPadNumber | PINPadPort | PINPadIP | DebitTerminalID | DrawerType1 | DrawerPort1 | DrawerOpenStatus1 | DrawerType2 | DrawerPort2 | DrawerOpenStatus2 | DrawerType3 | DrawerPort3 | DrawerOpenStatus3 | DrawerType4 | DrawerPort4 | DrawerOpenStatus4 | DrawerPrinterNumber1 | DrawerPrinterNumber2 | DrawerPrinterNumber3 | DrawerPrinterNumber4 | InvoicePreprintedCompanyName | OrderPreprintedCompanyName | SecondDisplay | SecondDisplayIndex | WebpagePath | DrawerPrinterType1 | DrawerPrinterType2 | DrawerPrinterType3 | DrawerPrinterType4 | DrawerPrinter1 | DrawerPrinter2 | DrawerPrinter3 | DrawerPrinter4 | DrawerCommand1 | DrawerCommand2 | DrawerCommand3 | DrawerCommand4 | TouchMode | CoinDispenserType | CoinDispenserPort | PinpadType | PinpadPromptTip | PinpadPromptSignature |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7 | Workstation 7 | 7 | Epson TM-T Thermal |  | 69 | 71 | 0 | 72 | 70 | T | 0 | LPT0 | D |  | PX004484 | COM3 | 192.168.2.36 | 007 | D |  | Y |  |  |  |  |  |  |  |  |  | 1 | 0 | 0 | 0 | false | false | true | 2 |  | E |  |  |  | Receipt |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+| 97 | Staff Office | 97 |  |  | 8 | 18 | 0 | 28 | 38 | T | 0 | COM1 | D |  |  |  |  |  | N |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+| 4 | Workstation 4 | 4 | Epson TM-T Thermal |  | 4 | 14 | 0 | 24 | 34 | T | 0 | LPT0 | D |  | PX007797 | COM3 | 192.168.2.30 | 004 | D |  | Y |  |  |  |  |  |  |  |  |  | 1 | 0 | 0 | 0 | false | false | true | 1 | D:\Profitek\RS\HTML\Legacy_POS_slideshow_1123.swf | E |  |  |  | Receipt |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+| 8 | Workstation 8 | 8 | Epson TM-T Thermal | Epson TM-T Thermal | 73 | 75 | 0 | 76 | 74 | T | 0 |  | D |  |  |  |  |  | N |  |  | N |  |  | N |  |  | N |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+| 95 | Ron - Head Office | 95 |  |  | 49 | 51 | 0 | 52 | 50 | T | 0 |  | D |  |  |  |  |  | N |  |  | N |  |  | N |  |  | N |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  | null | null | null |
+| 94 | Darryl's Laptop | 94 |  |  | 53 | 55 | 0 | 56 | 54 | F | 0 |  | D |  |  |  |  |  | N |  |  | N |  |  | N |  |  | N |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+| 86 | Bentley | 86 |  |  | 85 | 87 | 0 | 88 | 86 | F | 0 |  | D |  |  |  |  |  | N |  |  | N |  |  | N |  |  | N |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+| 96 | Aaron - Office | 96 |  |  | 7 | 17 | 0 | 27 | 37 | T | 0 | LPT0 | D |  |  |  |  |  | N |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  | null | null | null |
+| 85 | Gordon | 85 |  |  | 89 | 91 | 0 | 92 | 90 | F | 0 |  | D |  |  |  |  |  | N |  |  | N |  |  | N |  |  | N |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+| 99 | Server | 99 | Epson T60 |  | 10 | 20 | 0 | 30 | 40 | F | 0 | COM1 | D |  |  |  |  |  | N |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  | null | null | null |
+| 3 | Workstation 3 | 3 | Epson TM-T Thermal |  | 3 | 13 | 0 | 23 | 33 | T | 0 | LPT0 | D |  | PX004442 | COM3 | 192.168.2.31 | 003 | D |  | Y |  |  |  |  |  |  |  |  |  | 1 | 0 | 0 | 0 | false | false | true | 1 | D:\Profitek\RS\HTML\Legacy_POS_slideshow_1123.swf | E |  |  |  | Receipt |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+| 87 | Thibaut Laptop | 87 |  |  | 81 | 83 | 0 | 84 | 82 | F | 0 |  | D |  |  |  |  |  | N |  |  | N |  |  | N |  |  | N |  |  | 0 | 0 | 0 | 0 | false | false | false | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  |  | false | false |
+
+</details>
+
 # RS0000HISTORY
 
-Showing tables with at least 100 rows.
+Showing tables with at least 0 rows.
 
 ### RSCashierClosingTender (113,162 rows)
 
@@ -1406,6 +3244,8 @@ Showing tables with at least 100 rows.
 
 </details>
 
+### RSCashPickup (0 rows)
+
 ### RSCCACreditRequest (132,498 rows)
 
 
@@ -1454,6 +3294,10 @@ Showing tables with at least 100 rows.
 
 </details>
 
+### RSCUPBatchClose (0 rows)
+
+### RSCUPRequest (0 rows)
+
 ### RSDailyClose (2,015 rows)
 
 
@@ -1477,6 +3321,34 @@ Showing tables with at least 100 rows.
 | 1824 | 2018-03-29T23:22:38.000Z | 2018-03-29T00:00:00.000Z | CASH |
 
 </details>
+
+### RSGLJournal (92 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| JournalId | Date | GLAcctNum | GLDeptNum | Description | Debit | Credit | ForeignDebit | ForeignCredit | ExportNo | ExportDate | Source | DailyClosingID | Consolidate | SourceId | SourceType |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 41 | 2010-11-19T00:00:00.000Z |  |  | VINCOR CANADA | 313.81 | 2928.71 | 313.81 | 2928.71 | 0 | null | Rec/Rtn 3753618 | 1 | false | 20 | 1 |
+| 51 | 2010-11-19T00:00:00.000Z | INV | 000 | BLACK HILLS WINERY | 2512.19 | 0 | 2512.19 | 0 | 0 | null | Rec/Rtn 0062989 | 1 | false | 26 | 1 |
+| 67 | 2010-11-19T00:00:00.000Z | INV | 000 | R&B Brewing | 241.61 | 0 | 241.61 | 0 | 0 | null | Rec/Rtn 6911 | 1 | false | 22 | 1 |
+| 25 | 2010-11-18T00:00:00.000Z | INV | 000 | BLACK WIDOW | 360.34 | 0 | 360.34 | 0 | 0 | null | Rec/Rtn 480143 | 1 | false | 16 | 1 |
+| 35 | 2010-11-19T00:00:00.000Z |  |  | DUNHAM & FROESE | 67.04 | 625.74 | 67.04 | 625.74 | 0 | null | Rec/Rtn 345668 | 1 | false | 31 | 1 |
+| 85 | 2010-11-22T00:00:00.000Z | INV | 000 | GRANVILLE ISLAND BREWERY | 738.58 | 0 | 738.58 | 0 | 0 | null | Rec/Rtn 126685 | 1 | false | 39 | 1 |
+| 27 | 2010-11-18T00:00:00.000Z | INV | 000 | Mark Anthony | 3158.65 | 0 | 3158.65 | 0 | 0 | null | Rec/Rtn S571302 | 1 | false | 52 | 1 |
+| 70 | 2010-11-19T00:00:00.000Z | INV | 000 | Sales - Inventory | 18.83 | 37.68 | 0 | 0 | 0 | null | RS | 1 | false | 0 |  |
+| 63 | 2010-11-19T00:00:00.000Z | INV | 000 | VINCOR CANADA | 429.11 | 0 | 429.11 | 0 | 0 | null | Rec/Rtn 3753616 | 1 | false | 18 | 1 |
+| 19 | 2010-11-18T00:00:00.000Z | INV | 000 | QUAILS GATE WINERY | 298.48 | 0 | 298.48 | 0 | 0 | null | Rec/Rtn 282786 | 1 | false | 7 | 1 |
+| 45 | 2010-11-19T00:00:00.000Z |  |  | CEDAR CREEK ESTATE | 43.22 | 403.39 | 43.22 | 403.39 | 0 | null | Rec/Rtn 762554 | 1 | false | 37 | 1 |
+| 28 | 2010-11-19T00:00:00.000Z |  |  | BLACK HILLS WINERY | 301.47 | 2813.66 | 301.47 | 2813.66 | 0 | null | Rec/Rtn 0062989 | 1 | false | 26 | 1 |
+
+</details>
+
+### RSSalesCommission (0 rows)
+
+### RSTxnDeletedDetail (0 rows)
 
 ### RSTxnDetail (4,710,294 rows)
 
@@ -1502,6 +3374,10 @@ Showing tables with at least 100 rows.
 
 </details>
 
+### RSTxnDetailForeign (0 rows)
+
+### RSTxnExpenseDtl (0 rows)
+
 ### RSTxnHeader (1,977,798 rows)
 
 
@@ -1525,6 +3401,8 @@ Showing tables with at least 100 rows.
 | 521396 | 519361 | S | 2013-12-07T17:18:43.000Z | 0 | 1 | XP | 0 | 27 |  | 18.95 | 18.85 | 16.39 | 0 | 0 | 0.1 | 0 | 0 | 0 | 0 | 0 | 0.82 | 1.64 | 0 | 0 | 0.05000000074505806 | 0.10000000149011612 | 0.07000000029802322 | 0.05000000074505806 | CDN | 1 | X | 4 | 4 | 0 |  | Thank You! Please come again.  Please retain receipt for refund. No exchange or refund after 14 days.     | #AWSEPB#18#AWSEPE# | 1477 | 0 |  | CASH |  |  | null | 0 | 203 | 2013-12-07T00:00:00.000Z |  |
 
 </details>
+
+### RSTxnHeaderForeign (0 rows)
 
 ### RSTxnPayment (4,021 rows)
 
@@ -1622,6 +3500,10 @@ Showing tables with at least 100 rows.
 
 </details>
 
+### RSTxnTenderForeign (0 rows)
+
+### RSAirMilesDetail (0 rows)
+
 ### RSOpenDrawerLog (59,966 rows)
 
 
@@ -1645,6 +3527,21 @@ Showing tables with at least 100 rows.
 | 8167 | 23 | 3 | 0 | 2015-03-01T23:04:56.000Z | 663 |
 
 </details>
+
+### ProfitekSystem (1 row)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ID | Keys | Values | Desc |
+| --- | --- | --- | --- |
+| 1 | RS0000HISTORY | 226 | 11.12.1 |
+
+</details>
+
+### RSARRequest (0 rows)
 
 ### RSCashierClosing (18,111 rows)
 
@@ -1672,7 +3569,7 @@ Showing tables with at least 100 rows.
 
 # RS0000PODATA
 
-Showing tables with at least 100 rows.
+Showing tables with at least 0 rows.
 
 ### POHeader (3,981 rows)
 
@@ -1695,6 +3592,71 @@ Showing tables with at least 100 rows.
 | 2174 | 000 | 008 |  |  |  |  |  |  |  | 2015-04-14T14:53:14.000Z | 1056 | 1056 | 2015-04-14T14:57:03.000Z | 1056 | 0 | null | null | C | N | false | E | 1082.8 | 48.48 | 64.8 | 0 | 0 | I | Q | 1 | 1 |  | 0 | null | 0 | 0 |  |  |  | 0 | 1 | false |  | null |  |
 | 3167 | 000 | LDB |  |  |  |  |  |  |  | 2017-01-10T13:40:05.000Z | 44 | 44 | 2017-01-10T13:44:11.000Z | 44 | 0 | null | null | C | Y | false | E | 20761474083.21 | 983843874.64 | 100752715.8 | 0 | 0 | I | Q | 1 | 1 |  | 0 | null | 0 | 0 |  |  |  | 0 | 1 | false |  | null |  |
 | 1885 | 000 | 014 |  |  |  |  |  |  |  | 2014-09-15T13:28:31.000Z | SUPERV | SUPERV | 2014-09-15T13:46:45.000Z | SUPERV | 0 | null | null | C | N | true | E | 1508.26 | 71.08 | 15.6 | 0 | -425.78 | I | Q | 1 | 1 |  | 0 | null | 0 | 0 |  |  |  | 0 | 1 | false |  | null |  |
+
+</details>
+
+### POParameter (32 rows)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ValueName | Value |
+| --- | --- |
+| SortByStockNumber | N |
+| DisplayExtendedDes | N |
+| PrintFootnote |  |
+| ETAMandatory | N |
+| ExportType | None |
+| PrintOnHandQty | Y |
+| AutoCalculateDuty | Y |
+| PromptExportPO | N |
+| DefaultQty | 0 |
+| PromptCompletePartiallyOrder | N |
+| NextPONumber | 3999 |
+| PrintPuchase | N |
+
+</details>
+
+### PORemark (1 row)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| Code | Descrip |
+| --- | --- |
+| 01 | LICENSEE #195477  DELIVER TO LOADING BAY LOCATED OFF OF WALTER HARTWICK ST |
+
+</details>
+
+### POShipToAddress (0 rows)
+
+### ProfitekSystem (1 row)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ID | Keys | Values | Desc |
+| --- | --- | --- | --- |
+| 1 | RS0000PODATA | 207 | 11.12.1 |
+
+</details>
+
+### POCompanyInfo (1 row)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| Name | Address | City | Province | PostalCode | Country | Phone | Fax | BusinessNumber | LicenseNumber | StoreNo | AccountNumber | Version | POPrefix |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Legacy Liquor Store | 1633 Manitoba Street| | Vancouver | BC | V5Y0B8 | Canada | 6043317900 | 6043317901 |  |  | 0 | 920-849-154-130-623 |  | 000 |
 
 </details>
 
@@ -1722,6 +3684,43 @@ Showing tables with at least 100 rows.
 
 </details>
 
+### PODetailSize (0 rows)
+
 # RS0000WNDATA
 
-This database contains no tables with at least 100 rows.
+Showing tables with at least 0 rows.
+
+### RSWNFormSubcategory (0 rows)
+
+### RSWNItemImportSubcatMatch (0 rows)
+
+### RSWNParameter (0 rows)
+
+### RSWNPeriodMonth (0 rows)
+
+### RSWNPeriodTask (0 rows)
+
+### RSWNPeriodTaskInvRange (0 rows)
+
+### RSWNPeriodTaskSalesRange (0 rows)
+
+### RSWNPeriodYear (0 rows)
+
+### RSWNRentalItem (0 rows)
+
+### ProfitekSystem (1 row)
+
+
+
+<details>
+<summary>View random sample</summary>
+
+| ID | Keys | Values | Desc |
+| --- | --- | --- | --- |
+| 1 | RS0000WNDATA | 208 |  |
+
+</details>
+
+### RSWNBatchReport (0 rows)
+
+### RSWNFormCustType (0 rows)

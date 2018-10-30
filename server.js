@@ -16,7 +16,7 @@ if ( ! MSSQL_CONFIG.server) {
   throw 'Invalid MSSQL config file ' + mssqlConfigPath
 }
 
-const TABLE_SIZE_THRESHOLD = 100
+const TABLE_SIZE_THRESHOLD = 0
 
 sql.on('error', err => {
   console.log('MSSQL Error!')
