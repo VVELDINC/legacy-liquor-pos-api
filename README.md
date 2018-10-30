@@ -2,7 +2,7 @@
 
 Designed to work with the Legacy Liquor (LL) Storefront and the LL Admin App.
 
-This repo contains various tools and resources for working with Legacy Liquor's POS data. The source POS data resides on a Microsoft SQL Server (MS SQL).
+This repo contains various tools and resources for working with Legacy Liquor's POS data. The source POS data resides in a Microsoft SQL Server (version 2014).
 
 At the moment, this repo contains documentation on the various POS databases and their tables, along with sample data.
 
