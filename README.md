@@ -67,24 +67,26 @@ TODO
 
 ### Manager - Dashboard
 
- - Total sales (in dollars) per month
+ - Previous days sales
  - Total number of orders per month
  - Sales (in dollars) per category (wine, beer, spirit, etc) per month
- - Bestselling product order quantity (this month?)
- - New customers / top customers - what is this?
- - Sales trend - what's the difference with just "Sales"?
+ - Bestselling product order quantity for this month
+ - New customers (new signups) / top customers (customers buying the most)
+ - Sales trend. From Elliott: I think what we need design to change is an overlay on that UI that shows the previous year and months vs. this year and months. Then months clicked out of can open the Manager Sales Reports UI to show the timeframe clicked on in the previous interface.
  - Total sales this month
  - Orders this month
- - Products sold this month - what's the difference with "orders"?
+ - Products sold this month (an order can contain multiple products)
 
 ### Manager - Sales Reports
 
- - Daily (or monthly?) sales data for all years
- - Daily (or monthly?) sales data per category (wine, beer, spirit)
- - Daily (or monthly?) sales data per type (what is a type?)
- - Daily (or monthly?) sales data per brand
- - Daily (or monthly?) sales data per SKU
+ - Sales data for all years
+ - Sales data per category (wine, beer, spirit)
+ - Sales data per type (what is a type?)
+ - Sales data per brand
+ - Sales data per SKU
  - Every sale (including data on qty sold and qty left in inventory)
+
+Filters for the above UI that apply: day over day, week over week, month over month, year over year, and custom filter with date picker.
 
 ### Manager - Sales
 
@@ -97,7 +99,7 @@ TODO
 ### Manager - Par Levels
 
  - Every product in inventory (with price, par level, qty in inventory, age)
- - Manager's contact email (who is a manager in this context?)
+ - Manager's contact email (Category Manager, eg: Spirits dept. Manager)
 
 ### Manager - Gross Margin
 
@@ -109,11 +111,10 @@ TODO
 ### Marketing Manager - Events
 
  - Event details
- - Maybe contact details of potential attendees?
 
 ### eCommerce Manager - Inbox
 
- - There does not seem to be anything in the POS data related to emails (except maybe contact details?)
+ - This email UI is tied to orders@ email address for inbound order emails.
 
 ### eCommerce Manager - Customers
 
